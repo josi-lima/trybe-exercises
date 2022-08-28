@@ -34,7 +34,7 @@
 <br>✅ 4.2 - JavaScript - Array e loop For
 <br>✅ 4.3 - JavaScript - Lógica de Programação e Algoritmos
 <br>✅ 4.4 - JavaScript - Objetos e funções
-<br>✅ 4.5 - Projeto - Playground Functions
+<br>✅ 4.5 - _[Projeto - Playground Functions](https://github.com/tryber/sd-t26-a-project-playground-functions/pull/78)_  
 
 <strong>Bloco 5: Introdução - JavaScript - Projetos</strong>
 <br>✅ 5.1 - JavaScript - DOM e seletores
