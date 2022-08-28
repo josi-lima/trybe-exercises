@@ -38,16 +38,16 @@
 <br>✅ 4.5 - <em>_[Projeto - Playground Functions](https://github.com/tryber/sd-t26-a-project-playground-functions/pull/78)_</em>  
 
 <strong>Bloco 5: Introdução - JavaScript - Projetos</strong>
-<br>✅ 5.1 - JavaScript - DOM e seletores
-<br>✅ 5.2 - JavaScript - Trabalhando com elementos
-<br>✅ 5.3 - JavaScript - Eventos
-<br>⬜ 5.4 - JavaScript - Web Storage
-<br>⬜ 5.5 - Fundamentos - JavaScript - Projetos
-<br>⬜ 5.5 - Projeto - Arte com Pixels
-<br>⬜ 5.6 - (Bônus) Projeto - Lista de tarefas
-<br>⬜ 5.7 - (Bônus) Projeto - Meme Generator
-<br>⬜ 5.7 - (Bônus) Projeto - Adivinhe a Cor
-<br>⬜ 5.7 - (Bônus) Projeto - Carta Misteriosa
+<br>✅ 5.1 - <em>JavaScript - DOM e seletores</em>
+<br>✅ 5.2 - <em>JavaScript - Trabalhando com elementos</em>
+<br>✅ 5.3 - <em>JavaScript - Eventos</em>
+<br>⬜ 5.4 - <em>JavaScript - Web Storage</em>
+<br>⬜ 5.5 - <em>Fundamentos - JavaScript - Projetos</em>
+<br>⬜ 5.6 - <em>Projeto - Arte com Pixels</em>
+<br>⬜ 5.7 - <em>(Bônus) Projeto - Lista de tarefas</em>
+<br>⬜ 5.7 - <em>(Bônus) Projeto - Meme Generator</em>
+<br>⬜ 5.7 - <em>(Bônus) Projeto - Adivinhe a Cor</em>
+<br>⬜ 5.7 - <em>(Bônus) Projeto - Carta Misteriosa</em>
 
 <strong>Bloco 6: HTML & CSS avançado</strong>
 <br>⬜ 6.1 - HTML & CSS - Forms
