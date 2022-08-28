@@ -16,12 +16,12 @@
 <br>✅ 1.2 - Unix & Bash - Parte 1
 <br>✅ 1.3 - Unix & Bash - Parte 2
 
-<strong>Bloco 2: Git & GitHub</strong>
+<strong>Bloco 2: Git & GitHub e Internet</strong>
 <br>✅ 2.1 - Git & GitHub  - O que é e para que serve
 <br>✅ 2.2 - Git & GitHub - Entendendo os comandos
 <br>✅ 2.3 - Internet - Entendendo como ela funciona
 
-<strong>Bloco 3: Introdução - HTML & CSS</strong>
+<strong>Bloco 3: Introdução à HTML & CSS</strong>
 <br>✅ 3.1 - Introdução - HTML & CSS
 <br>✅ 3.1 - HTML & CSS - Estruturas de página
 <br>✅ 3.2 - HTML & CSS - Primeiros passos em CSS
@@ -29,7 +29,7 @@
 <br>✅ 3.4 - HTML Semântico
 <br>✅ 3.5 - _[Projeto HTML e CSS - Lessons Learned](https://github.com/tryber/sd-026-a-project-lessons-learned/pull/122)_
 
-<strong>Bloco 4: Introdução - JavaScript</strong>
+<strong>Bloco 4: Introdução à JavaScript e Lógica de Programação</strong>
 <br>✅ 4.1 - Introdução - JavaScript
 <br>✅ 4.1 - JavaScript - Primeiros passos
 <br>✅ 4.2 - JavaScript - Array e loop For
