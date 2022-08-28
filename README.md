@@ -37,7 +37,7 @@
 <br>✅ 4.4 - <em>JavaScript - Objetos e funções</em>
 <br>✅ 4.5 - <em>_[Projeto - Playground Functions](https://github.com/tryber/sd-t26-a-project-playground-functions/pull/78)_</em>  
 
-<strong>Bloco 5: Introdução - JavaScript - Projetos</strong>
+<strong>Bloco 5: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>✅ 5.1 - <em>JavaScript - DOM e seletores</em>
 <br>✅ 5.2 - <em>JavaScript - Trabalhando com elementos</em>
 <br>✅ 5.3 - <em>JavaScript - Eventos</em>
@@ -64,7 +64,7 @@
 <br>⬜ 7.3 - Testes unitários em JavaScript
 <br>⬜ 7.4 - Projeto - JavaScript Testes Unitários
 
-<strong>Bloco 8: JavaScript ES6</strong>
+<strong>Bloco 8: Higher Order Functions em JavaScript ES6</strong>
 <br>⬜ 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 <br>⬜ 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
 <br>⬜ 8.3 - JavaScript ES6 - Higher Order Functions - reduce
