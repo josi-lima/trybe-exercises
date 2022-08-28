@@ -6,6 +6,7 @@
 
 💻 O programa conta com mais de 1.500 horas de treinamento presencial e online. O currículo abrange fundamentos de desenvolvimento de software, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais (soft skills).
 
+<hr>
 
 ## Fundamentos do Desenvolvimento Web ⏳
 
@@ -73,3 +74,55 @@
 <hr>
 
 ## Desenvolvimento Front-end ⏳
+
+<strong>Bloco 9: JavaScript e Testes Assíncronos</strong>
+<br>⬜ 9-1: Introdução - Front-end
+<br>⬜ 9-1: JavaScript Assíncrono e Callbacks
+<br>⬜ 9-2: JavaScript Assíncrono - Fetch API e async/await
+<br>⬜ 9-3: Jest - Testes Assíncronos
+<br>⬜ 9-4: Projeto - Carrinho de Compras
+
+<strong>Bloco 10: Introdução à React</strong>
+<br>⬜ 10-1: 'Hello, world!' no React!
+<br>⬜ 10-2: Componentes React
+<br>⬜ 10-3: Projeto - Sistema Solar
+ 
+<strong>Bloco 11: React</strong>
+<br>⬜ 11-1: Components com estado
+<br>⬜ 11-2: Eventos e formulários no React
+<br>⬜ 11-3: Projeto - Movie Cards Library Stateful
+ 
+<strong>Bloco 12: React</strong>
+ 13-1: Melhorando o reuso de componentes: props.children e PropTypes
+ 13-2: Ciclo de vida de componentes em React
+ 13-3: React Router
+ 13-4: Projeto - Movie Cards Library CRUD
+ 
+<strong>Bloco 13: Metodologias Ágeis</strong>
+ 14-1: Metodologias Ágeis
+ 14-2: Projeto - Frontend Online Store
+ 
+<strong>Bloco 14: Testes em React</strong>
+ 15-1: Testando React com a React Testing Library
+ 15-2: Testando React com a React Testing Library - Parte 2
+ 15-3: Projeto - Testes em React
+ 
+<strong>Bloco 15: Introdução ao Redux</strong>
+ 16-1: Introdução ao Redux
+ 16-2: React com Redux - Parte 1
+ 16-3: React com Redux - Prática
+ 16-4: React com Redux - Parte 2
+ 16-5: Testes síncronos com React-Redux
+ 16-6: Projeto - Tabela com filtros de dados
+ 
+<strong>Bloco 16: Projeto React</strong>
+ 17-1: Projeto - Jogo de Trivia
+ 
+<strong>Bloco 17: React & Context API</strong>
+ 18-1: Context API do React
+ 18-2: React Hooks - useState e useContext
+ 18-3: React Hooks - useEffect e Hooks customizados
+ 18-4: Projeto - StarWars Datatable com Context API e Hooks
+ 
+<strong>Bloco 18: Projeto Final de Front-end</strong>
+ 19-1: Projeto - App de Receitas
