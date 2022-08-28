@@ -4,7 +4,7 @@
 
 >"A Trybe é uma escola de tecnologia do futuro!" 🚀
 
-O programa conta com mais de 1.500 horas de treinamento presencial e online. O currículo abrange fundamentos de desenvolvimento de software, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais (soft skills).
+💻 O programa conta com mais de 1.500 horas de treinamento presencial e online. O currículo abrange fundamentos de desenvolvimento de software, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais (soft skills).
 
 ## Fundamentos do Desenvolvimento Web ⏳
 
