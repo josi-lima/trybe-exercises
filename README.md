@@ -10,7 +10,7 @@
 
 ## Fundamentos do Desenvolvimento Web ⏳
 
-#<strong>Bloco 1: Introdução - Unix & Shell</strong>
+<strong>Bloco 1: Introdução - Unix & Shell</strong>
 <br>✅ 1.1 - Fundamentos do Desenvolvimento Web
 <br>✅ 1.1 - Introdução - Unix & Shell
 <br>✅ 1.2 - Unix & Bash - Parte 1
@@ -90,38 +90,39 @@
 <strong>Bloco 11: Componentes com Estado, Eventos e Formulários com React</strong>
 <br>⬜ 11-1: Components com estado e eventos
 <br>⬜ 11-2: Formulários no React
-<br>⬜ 11-3: Projeto Tryunfo
+<br>⬜ 11-3: Projeto - Tryunfo
  
 <strong>Bloco 12: Ciclo de vida de Componentes e React Router</strong>
 <br>⬜ 12-1: Ciclo de vida de componentes em React
 <br>⬜ 12-2: React Router
-<br>⬜ 12-3: Projeto TrybeTunes
+<br>⬜ 12-3: Projeto - TrybeTunes
  
 <strong>Bloco 13: Metodologias Ágeis</strong>
- 14-1: Metodologias Ágeis
- 14-2: Projeto - Frontend Online Store
+<br>⬜ 13-1: Metodologias Ágeis
+<br>⬜ 13-2: Projeto - Frontend Online Store
  
-<strong>Bloco 14: Testes em React</strong>
- 15-1: Testando React com a React Testing Library
- 15-2: Testando React com a React Testing Library - Parte 2
- 15-3: Projeto - Testes em React
+<strong>Bloco 14: Testes automatizados com React Testing Library</strong>
+<br>⬜ 14-1: RTL - Primeiros Passos 
+<br>⬜ 14-2: RTL - Mocks e Inputs
+<br>⬜ 14-3: RTL - Testando React Router
+<br>⬜ 14-4: Projeto - Testes em React
  
-<strong>Bloco 15: Introdução ao Redux</strong>
- 16-1: Introdução ao Redux
- 16-2: React com Redux - Parte 1
- 16-3: React com Redux - Prática
- 16-4: React com Redux - Parte 2
- 16-5: Testes síncronos com React-Redux
- 16-6: Projeto - Tabela com filtros de dados
+<strong>Bloco 15: Gerenciamento de estado com Redux</strong>
+<br>⬜ 15-1: Introdução ao Redux - O estado global da aplicação
+<br>⬜ 15-2: Usando o Redux no React
+<br>⬜ 15-3: Usando o Redux no React - Prática
+<br>⬜ 15-4: Usando o Redux no React - Actions assíncronas
+<br>⬜ 15-5: Testes em React-Redux
+<br>⬜ 15-6: Projeto - Trybe Wallet
  
 <strong>Bloco 16: Projeto React</strong>
- 17-1: Projeto - Jogo de Trivia
+<br>⬜ 17-1: Projeto - Jogo de Trivia
  
-<strong>Bloco 17: React & Context API</strong>
- 18-1: Context API do React
- 18-2: React Hooks - useState e useContext
- 18-3: React Hooks - useEffect e Hooks customizados
- 18-4: Projeto - StarWars Datatable com Context API e Hooks
+<strong>Bloco 17: Context API & React Hooks</strong>
+<br>⬜ 17-1: Context API do React
+<br>⬜ 17-2: React Hooks - useState e useContext
+<br>⬜ 17-3: React Hooks - useEffect e Hooks customizados
+<br>⬜ 17-4: Projeto - StarWars Datatable com Context API e Hooks
  
 <strong>Bloco 18: Projeto Final de Front-end</strong>
- 19-1: Projeto - App de Receitas
+<br>⬜ 18-1: Projeto - App de Receitas
