@@ -40,36 +40,39 @@ O programa conta com mais de 1.500 horas de treinamento presencial e online. O c
 - [x] 4.5 - Projeto - Playground Functions
 
 <strong>Bloco 5: Introdução - JavaScript - Projetos</strong>
- 5-1: JavaScript - DOM e seletores
- 5-2: JavaScript - Trabalhando com elementos
- 5-3: JavaScript - Eventos
- 5-4: JavaScript - Web Storage
- 5-5: Projeto - Meme Generator
- 5-6: Projeto - Arte com Pixels
- 5-7: Projeto - Lista de tarefas
- 5-7: Projeto - Adivinhe a Cor
- 5-7: Projeto - Carta Misteriosa
+
+- [x] 5.1 - JavaScript - DOM e seletores
+- [x] 5.2 - JavaScript - Trabalhando com elementos
+- [x] 5.3 - JavaScript - Eventos
+- [ ] 5.4 - JavaScript - Web Storage
+- [ ] 5.5 - Fundamentos - JavaScript - Projetos
+- [ ] 5.5 - Projeto - Arte com Pixels
+- [ ] 5.6 - (Bônus) Projeto - Lista de tarefas
+- [ ] 5.7 - (Bônus) Projeto - Meme Generator
+- [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
+- [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
 <strong>Bloco 6: HTML & CSS avançado</strong>
 
- 6-1: HTML & CSS - Forms
- 6-2: Bibliotecas JavaScript e Frameworks CSS
- 6-3: CSS Flexbox - Part 1
- 6-4: CSS Flexbox - Part 2
- 6-5: CSS Responsivo - Mobile First
- 6-6: Projeto - Página inicial do Facebook
+- [ ] 6.1 - HTML & CSS - Forms
+- [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
+- [ ] 6.3 - Introdução - CSS Flexbox
+- [ ] 6.3 - CSS Flexbox - Parte 1
+- [ ] 6.4 - CSS Flexbox - Parte 2
+- [ ] 6.5 - CSS Responsivo - Mobile First
+- [ ] 6.6 - Projeto - Página inicial do Facebook
 
 <strong>Bloco 7: JavaScript ES6 & Testes Unitários</strong>
 
- 7-1: JavaScript ES6 - let, const, arrow functions e template literals
- 7-2: JavaScript ES6 - Objects
- 7-3: Testes unitários em JavaScript
- 7-4: Projeto - JavaScript Testes Unitários
+- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
+- [ ] 7.2 - JavaScript ES6 - Objects
+- [ ] 7.3 - Testes unitários em JavaScript
+- [ ] 7.4 - Projeto - JavaScript Testes Unitários
 
 <strong>Bloco 8: JavaScript ES6</strong>
 
- 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
- 8-2: JavaScript ES6 - Higher Order Functions - map e filter
- 8-3: JavaScript ES6 - Higher Order Functions - reduce
- 8-4: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
- 8-5: Projeto - Zoo functions
+- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [ ] 8.5 - Projeto - Zoo functions
