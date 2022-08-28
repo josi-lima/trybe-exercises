@@ -1,4 +1,4 @@
-# Bootcamp TRYBE - Exercises
+✅ # Bootcamp Tyrbe - Exercises
 
 ⚡Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Josiane](www.linkedin.com/in/josiane-lima-coding)_ durante o período de 1 ano de estudos de programação na _[Trybe](https://www.betrybe.com/)_.
 
