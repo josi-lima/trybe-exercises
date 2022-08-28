@@ -10,11 +10,11 @@
 
 ## Fundamentos de Desenvolvimento Web ⏳
 
-<strong>Bloco 1: Introdução - Unix & Shell</strong>
+<strong>Bloco 1: Introdução - Unix & Shell</strong><em>
 <br>✅ 1.1 - Fundamentos do Desenvolvimento Web
 <br>✅ 1.1 - Introdução - Unix & Shell
 <br>✅ 1.2 - Unix & Bash - Parte 1
-<br>✅ 1.3 - Unix & Bash - Parte 2
+<br>✅ 1.3 - Unix & Bash - Parte 2</em>
 
 <strong>Bloco 2: Git, GitHub e Internet</strong>
 <br>✅ 2.1 - Git & GitHub  - O que é e para que serve
@@ -128,4 +128,8 @@
 <br>⬜ 18-1: Projeto - App de Receitas
 
 <hr>
+
+## Desenvolvimento Back-end ⏳
+
+
 
