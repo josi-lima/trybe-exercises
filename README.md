@@ -44,23 +44,23 @@
 - [x] 5.1 - JavaScript - DOM e seletores
 - [x] 5.2 - JavaScript - Trabalhando com elementos
 - [x] 5.3 - JavaScript - Eventos
-- [ ] 5.4 - JavaScript - Web Storage
-- [ ] 5.5 - Fundamentos - JavaScript - Projetos
-- [ ] 5.5 - Projeto - Arte com Pixels
-- [ ] 5.6 - (Bônus) Projeto - Lista de tarefas
-- [ ] 5.7 - (Bônus) Projeto - Meme Generator
-- [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
-- [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
+<br>🟩 5.4 - JavaScript - Web Storage
+<br>🟩 5.5 - Fundamentos - JavaScript - Projetos
+<br>🟩 5.5 - Projeto - Arte com Pixels
+<br>🟩 5.6 - (Bônus) Projeto - Lista de tarefas
+<br>🟩 5.7 - (Bônus) Projeto - Meme Generator
+<br>🟩 5.7 - (Bônus) Projeto - Adivinhe a Cor
+<br>🟩 5.7 - (Bônus) Projeto - Carta Misteriosa
 
 <strong>Bloco 6: HTML & CSS avançado</strong>
 
-- [ ] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6.3 - Introdução - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Parte 1
-- [ ] 6.4 - CSS Flexbox - Parte 2
-- [ ] 6.5 - CSS Responsivo - Mobile First
-- [ ] 6.6 - Projeto - Página inicial do Facebook
+<br>🟩 6.1 - HTML & CSS - Forms
+<br>🟩 6.2 - Bibliotecas JavaScript e Frameworks CSS
+<br>🟩 6.3 - Introdução - CSS Flexbox
+<br>🟩 6.3 - CSS Flexbox - Parte 1
+<br>🟩 6.4 - CSS Flexbox - Parte 2
+<br>🟩 6.5 - CSS Responsivo - Mobile First
+<br>🟩 6.6 - Projeto - Página inicial do Facebook
 
 <strong>Bloco 7: JavaScript ES6 & Testes Unitários</strong>
 
