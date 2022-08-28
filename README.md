@@ -43,11 +43,11 @@
 <br>✅ 5.3 - <em>JavaScript - Eventos</em>
 <br>✅ 5.4 - <em>JavaScript - Web Storage</em>
 <br>✅ 5.5 - <em>Fundamentos - JavaScript - Projetos</em>
-<br>⬜ 5.6 - Projeto - Arte com Pixels
-<br>⬜ 5.7 - (Bônus) Projeto - Lista de tarefas
-<br>⬜ 5.7 - (Bônus) Projeto - Meme Generator
-<br>⬜ 5.7 - (Bônus) Projeto - Adivinhe a Cor
-<br>⬜ 5.7 - (Bônus) Projeto - Carta Misteriosa
+<br>⬜ 5.5 - Projeto - Arte com Pixels
+<br>⬜ 5.6 - (Bônus) Projeto - Lista de tarefas
+<br>⬜ 5.6 - (Bônus) Projeto - Meme Generator
+<br>⬜ 5.6 - (Bônus) Projeto - Adivinhe a Cor
+<br>⬜ 5.6 - (Bônus) Projeto - Carta Misteriosa
 
 <strong>Bloco 6: HTML & CSS avançado</strong>
 <br>⬜ 6.1 - HTML & CSS - Forms
