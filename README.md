@@ -1,4 +1,4 @@
-# Bootcamp Tyrbe - Exercises ✅ 
+# Bootcamp Tyrbe - Exercises  
 
 ⚡Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Josiane](www.linkedin.com/in/josiane-lima-coding)_ durante o período de 1 ano de estudos de programação na _[Trybe](https://www.betrybe.com/)_.
 
@@ -10,10 +10,10 @@
 
 <strong>Bloco 1: Introdução - Unix & Shell</strong>
 
-✅ 1.3 - Fundamentos do Desenvolvimento Web
-- [x] 1.3 - Introdução - Unix & Shell
-- [x] 1.3 - Unix & Bash - Parte 1
-- [x] 1.4 - Unix & Bash - Parte 2
+✅ 1.1 - Fundamentos do Desenvolvimento Web
+✅ 1.1 - Introdução - Unix & Shell
+✅ 1.2 - Unix & Bash - Parte 1
+✅ 1.3 - Unix & Bash - Parte 2
 
 <strong>Bloco 2: Git & GitHub</strong>
 
