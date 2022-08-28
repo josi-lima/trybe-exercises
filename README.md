@@ -1,6 +1,6 @@
 # Bootcamp Trybe - Exercises  
 
-⚡Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Josiane](www.linkedin.com/in/josiane-lima-coding)_ durante o período de 1 ano de estudos de programação na _[Trybe](https://www.betrybe.com/)_.
+⚡ Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Josiane](www.linkedin.com/in/josiane-lima-coding)_ durante o período de 1 ano de estudos de programação na _[Trybe](https://www.betrybe.com/)_.
 
 >"A Trybe é uma escola de tecnologia do futuro!" 🚀
 
@@ -87,16 +87,15 @@
 <br>⬜ 10-2: Componentes React
 <br>⬜ 10-3: Projeto - Sistema Solar
  
-<strong>Bloco 11: React</strong>
-<br>⬜ 11-1: Components com estado
-<br>⬜ 11-2: Eventos e formulários no React
-<br>⬜ 11-3: Projeto - Movie Cards Library Stateful
+<strong>Bloco 11: Componentes com Estado, Eventos e Formulários com React</strong>
+<br>⬜ 11-1: Components com estado e eventos
+<br>⬜ 11-2: Formulários no React
+<br>⬜ 11-3: Projeto Tryunfo
  
-<strong>Bloco 12: React</strong>
- 13-1: Melhorando o reuso de componentes: props.children e PropTypes
- 13-2: Ciclo de vida de componentes em React
- 13-3: React Router
- 13-4: Projeto - Movie Cards Library CRUD
+<strong>Bloco 12: Ciclo de vida de Componentes e React Router</strong>
+<br>⬜ 12-1: Ciclo de vida de componentes em React
+<br>⬜ 12-2: React Router
+<br>⬜ 12-3: Projeto TrybeTunes
  
 <strong>Bloco 13: Metodologias Ágeis</strong>
  14-1: Metodologias Ágeis
