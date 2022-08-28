@@ -6,6 +6,7 @@
 
 💻 O programa conta com mais de 1.500 horas de treinamento presencial e online. O currículo abrange fundamentos de desenvolvimento de software, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais (soft skills).
 
+
 ## Fundamentos do Desenvolvimento Web ⏳
 
 <strong>Bloco 1: Introdução - Unix & Shell</strong>
@@ -57,14 +58,12 @@
 <br>⬜ 6.6 - Projeto - Página inicial do Facebook
 
 <strong>Bloco 7: JavaScript ES6 & Testes Unitários</strong>
-
 <br>⬜ 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 <br>⬜ 7.2 - JavaScript ES6 - Objects
 <br>⬜ 7.3 - Testes unitários em JavaScript
 <br>⬜ 7.4 - Projeto - JavaScript Testes Unitários
 
 <strong>Bloco 8: JavaScript ES6</strong>
-
 <br>⬜ 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 <br>⬜ 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
 <br>⬜ 8.3 - JavaScript ES6 - Higher Order Functions - reduce
