@@ -41,13 +41,13 @@
 <br>✅ 5.1 - <em>JavaScript - DOM e seletores</em>
 <br>✅ 5.2 - <em>JavaScript - Trabalhando com elementos</em>
 <br>✅ 5.3 - <em>JavaScript - Eventos</em>
-<br>⬜ 5.4 - <em>JavaScript - Web Storage</em>
-<br>⬜ 5.5 - <em>Fundamentos - JavaScript - Projetos</em>
-<br>⬜ 5.6 - <em>Projeto - Arte com Pixels</em>
-<br>⬜ 5.7 - <em>(Bônus) Projeto - Lista de tarefas</em>
-<br>⬜ 5.7 - <em>(Bônus) Projeto - Meme Generator</em>
-<br>⬜ 5.7 - <em>(Bônus) Projeto - Adivinhe a Cor</em>
-<br>⬜ 5.7 - <em>(Bônus) Projeto - Carta Misteriosa</em>
+<br>✅ 5.4 - <em>JavaScript - Web Storage</em>
+<br>✅ 5.5 - <em>Fundamentos - JavaScript - Projetos</em>
+<br>⬜ 5.6 - Projeto - Arte com Pixels
+<br>⬜ 5.7 - (Bônus) Projeto - Lista de tarefas
+<br>⬜ 5.7 - (Bônus) Projeto - Meme Generator
+<br>⬜ 5.7 - (Bônus) Projeto - Adivinhe a Cor
+<br>⬜ 5.7 - (Bônus) Projeto - Carta Misteriosa
 
 <strong>Bloco 6: HTML & CSS avançado</strong>
 <br>⬜ 6.1 - HTML & CSS - Forms
@@ -131,5 +131,19 @@
 
 ## Desenvolvimento Back-end ⏳
 
+<strong>Bloco 19: Docker: Utilizando containers</strong>
+<br>⬜ 19-1: Introdução - Back-end
+<br>⬜ 19-1: Utilizando containers - Docker
+<br>⬜ 19-2: Manipulando imagens no Docker
+<br>⬜ 19-3: Orquestrando Containers com Docker Compose
+<br>⬜ 19-4: Projeto - Docker To do List
+
+<strong>Bloco 20: Introdução à SQL</strong>
+<br>⬜ 20-1: Introdução - Banco de Dados Relacionais
+<br>⬜ 20-1: Banco de Dados SQL
+<br>⬜ 20-2: Encontrando dados em um banco de dados
+<br>⬜ 20-3: Filtrando dados de forma específica
+<br>⬜ 20-4: Manipulando tabelas
+<br>⬜ 20-5: Projeto - All For One
 
 
