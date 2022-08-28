@@ -10,7 +10,7 @@
 
 <strong>Bloco 1: Introdução - Unix & Shell</strong>
 
-✅ 1.1 - Fundamentos do Desenvolvimento Web
+- ✅ 1.1 - Fundamentos do Desenvolvimento Web
 ✅ 1.1 - Introdução - Unix & Shell
 ✅ 1.2 - Unix & Bash - Parte 1
 ✅ 1.3 - Unix & Bash - Parte 2
