@@ -1,4 +1,4 @@
-# Bootcamp Tyrbe - Exercises  
+# Bootcamp Trybe - Exercises  
 
 ⚡Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Josiane](www.linkedin.com/in/josiane-lima-coding)_ durante o período de 1 ano de estudos de programação na _[Trybe](https://www.betrybe.com/)_.
 
@@ -26,7 +26,7 @@
 <br>✅ 3.2 - HTML & CSS - Primeiros passos em CSS
 <br>✅ 3.3 - HTML & CSS - Seletores e posicionamento
 <br>✅ 3.4 - HTML Semântico
-<br>✅ 3.5 - Projeto HTML e CSS - Lessons Learned
+<br>✅ 3.5 - _[Projeto HTML e CSS - Lessons Learned](https://github.com/tryber/sd-026-a-project-lessons-learned/pull/122)_
 
 <strong>Bloco 4: Introdução - JavaScript</strong>
 <br>✅ 4.1 - Introdução - JavaScript
