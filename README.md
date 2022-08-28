@@ -10,40 +10,40 @@
 
 <strong>Bloco 1: Introdução - Unix & Shell</strong>
 
-✅ 1.1 - Fundamentos do Desenvolvimento Web<br>
-✅ 1.1 - Introdução - Unix & Shell<br>
-✅ 1.2 - Unix & Bash - Parte 1<br>
-✅ 1.3 - Unix & Bash - Parte 2
+<br>✅ 1.1 - Fundamentos do Desenvolvimento Web
+<br>✅ 1.1 - Introdução - Unix & Shell
+<br>✅ 1.2 - Unix & Bash - Parte 1
+<br>✅ 1.3 - Unix & Bash - Parte 2
 
 <strong>Bloco 2: Git & GitHub</strong>
 
-- [x] 2.1 - Git & GitHub  - O que é e para que serve
-- [x] 2.2 - Git & GitHub - Entendendo os comandos
-- [x] 2.3 - Internet - Entendendo como ela funciona
+<br>✅ 2.1 - Git & GitHub  - O que é e para que serve
+<br>✅ 2.2 - Git & GitHub - Entendendo os comandos
+<br>✅ 2.3 - Internet - Entendendo como ela funciona
 
 <strong>Bloco 3: Introdução - HTML & CSS</strong>
 
-- [x] 3.1 - Introdução - HTML & CSS
-- [x] 3.1 - HTML & CSS - Estruturas de página
-- [x] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [x] 3.3 - HTML & CSS - Seletores e posicionamento
-- [x] 3.4 - HTML Semântico
-- [x] 3.5 - Projeto HTML e CSS - Lessons Learned
+<br>✅ 3.1 - Introdução - HTML & CSS
+<br>✅ 3.1 - HTML & CSS - Estruturas de página
+<br>✅ 3.2 - HTML & CSS - Primeiros passos em CSS
+<br>✅ 3.3 - HTML & CSS - Seletores e posicionamento
+<br>✅ 3.4 - HTML Semântico
+<br>✅ 3.5 - Projeto HTML e CSS - Lessons Learned
 
 <strong>Bloco 4: Introdução - JavaScript</strong>
 
-- [x] 4.1 - Introdução - JavaScript
-- [x] 4.1 - JavaScript - Primeiros passos
-- [x] 4.2 - JavaScript - Array e loop For
-- [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [x] 4.4 - JavaScript - Objetos e funções
-- [x] 4.5 - Projeto - Playground Functions
+<br>✅ 4.1 - Introdução - JavaScript
+<br>✅ 4.1 - JavaScript - Primeiros passos
+<br>✅ 4.2 - JavaScript - Array e loop For
+<br>✅ 4.3 - JavaScript - Lógica de Programação e Algoritmos
+<br>✅ 4.4 - JavaScript - Objetos e funções
+<br>✅ 4.5 - Projeto - Playground Functions
 
 <strong>Bloco 5: Introdução - JavaScript - Projetos</strong>
 
-- [x] 5.1 - JavaScript - DOM e seletores
-- [x] 5.2 - JavaScript - Trabalhando com elementos
-- [x] 5.3 - JavaScript - Eventos
+<br>✅ 5.1 - JavaScript - DOM e seletores
+<br>✅ 5.2 - JavaScript - Trabalhando com elementos
+<br>✅ 5.3 - JavaScript - Eventos
 <br>🟩 5.4 - JavaScript - Web Storage
 <br>🟩 5.5 - Fundamentos - JavaScript - Projetos
 <br>🟩 5.5 - Projeto - Arte com Pixels
