@@ -42,7 +42,7 @@
 <br>✅ 5.2 - <em>JavaScript - Trabalhando com elementos</em>
 <br>✅ 5.3 - <em>JavaScript - Eventos</em>
 <br>✅ 5.4 - <em>JavaScript - Web Storage</em>
-<br>⬜ 5.5 - <em>JavaScript Projects</em>
+<br>⬜ 5.5 - JavaScript Projects
 <br>⬜ 5.5 - Projeto - Arte com Pixels
 <br>⬜ 5.6 - (Bônus) Projeto - Lista de tarefas
 <br>⬜ 5.6 - (Bônus) Projeto - Meme Generator
