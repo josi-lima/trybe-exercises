@@ -69,3 +69,7 @@
 <br>⬜ 8.3 - JavaScript ES6 - Higher Order Functions - reduce
 <br>⬜ 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 <br>⬜ 8.5 - Projeto - Zoo functions
+
+<hr>
+
+## Desenvolvimento Front-end ⏳
