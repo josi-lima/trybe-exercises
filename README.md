@@ -10,16 +10,16 @@
 
 ## Fundamentos de Desenvolvimento Web ⏳
 
-<strong>Bloco 1: Introdução - Unix & Shell</strong><em>
-<br>✅ 1.1 - Fundamentos do Desenvolvimento Web
-<br>✅ 1.1 - Introdução - Unix & Shell
-<br>✅ 1.2 - Unix & Bash - Parte 1
-<br>✅ 1.3 - Unix & Bash - Parte 2</em>
+<strong>Bloco 1: Introdução - Unix & Shell</strong>
+<br>✅ 1.1 - <em>Fundamentos do Desenvolvimento Web</em>
+<br>✅ 1.1 - <em>Introdução - Unix & Shell</em>
+<br>✅ 1.2 - <em>Unix & Bash - Parte 1</em>
+<br>✅ 1.3 - <em>Unix & Bash - Parte 2</em>
 
 <strong>Bloco 2: Git, GitHub e Internet</strong>
-<br>✅ 2.1 - Git & GitHub  - O que é e para que serve
-<br>✅ 2.2 - Git & GitHub - Entendendo os comandos
-<br>✅ 2.3 - Internet - Entendendo como ela funciona
+<br>✅ 2.1 - <em>Git & GitHub  - O que é e para que serve</em>
+<br>✅ 2.2 - <em>Git & GitHub - Entendendo os comandos</em>
+<br>✅ 2.3 - <em>Internet - Entendendo como ela funciona</em>
 
 <strong>Bloco 3: Introdução à HTML & CSS</strong>
 <br>✅ 3.1 - Introdução - HTML & CSS
