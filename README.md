@@ -8,7 +8,7 @@
 
 <hr>
 
-## Fundamentos do Desenvolvimento Web ⏳
+## Fundamentos de Desenvolvimento Web ⏳
 
 <strong>Bloco 1: Introdução - Unix & Shell</strong>
 <br>✅ 1.1 - Fundamentos do Desenvolvimento Web
@@ -16,7 +16,7 @@
 <br>✅ 1.2 - Unix & Bash - Parte 1
 <br>✅ 1.3 - Unix & Bash - Parte 2
 
-<strong>Bloco 2: Git & GitHub e Internet</strong>
+<strong>Bloco 2: Git, GitHub e Internet</strong>
 <br>✅ 2.1 - Git & GitHub  - O que é e para que serve
 <br>✅ 2.2 - Git & GitHub - Entendendo os comandos
 <br>✅ 2.3 - Internet - Entendendo como ela funciona
@@ -116,7 +116,7 @@
 <br>⬜ 15-6: Projeto - Trybe Wallet
  
 <strong>Bloco 16: Projeto React</strong>
-<br>⬜ 17-1: Projeto - Jogo de Trivia
+<br>⬜ 16-1: Projeto - Jogo de Trivia
  
 <strong>Bloco 17: Context API & React Hooks</strong>
 <br>⬜ 17-1: Context API do React
@@ -126,3 +126,6 @@
  
 <strong>Bloco 18: Projeto Final de Front-end</strong>
 <br>⬜ 18-1: Projeto - App de Receitas
+
+<hr>
+
