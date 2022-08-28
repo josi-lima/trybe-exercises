@@ -22,20 +22,20 @@
 <br>✅ 2.3 - <em>Internet - Entendendo como ela funciona</em>
 
 <strong>Bloco 3: Introdução à HTML & CSS</strong>
-<br>✅ 3.1 - Introdução - HTML & CSS
-<br>✅ 3.1 - HTML & CSS - Estruturas de página
-<br>✅ 3.2 - HTML & CSS - Primeiros passos em CSS
-<br>✅ 3.3 - HTML & CSS - Seletores e posicionamento
-<br>✅ 3.4 - HTML Semântico
-<br>✅ 3.5 - _[Projeto HTML e CSS - Lessons Learned](https://github.com/tryber/sd-026-a-project-lessons-learned/pull/122)_
+<br>✅ 3.1 - <em>Introdução - HTML & CSS</em>
+<br>✅ 3.1 - <em>HTML & CSS - Estruturas de página</em>
+<br>✅ 3.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
+<br>✅ 3.3 - <em>HTML & CSS - Seletores e posicionamento</em>
+<br>✅ 3.4 - <em>HTML Semântico</em>
+<br>✅ 3.5 - <em>_[Projeto HTML e CSS - Lessons Learned](https://github.com/tryber/sd-026-a-project-lessons-learned/pull/122)_</em>
 
 <strong>Bloco 4: Introdução à JavaScript e Lógica de Programação</strong>
-<br>✅ 4.1 - Introdução - JavaScript
-<br>✅ 4.1 - JavaScript - Primeiros passos
-<br>✅ 4.2 - JavaScript - Array e loop For
-<br>✅ 4.3 - JavaScript - Lógica de Programação e Algoritmos
-<br>✅ 4.4 - JavaScript - Objetos e funções
-<br>✅ 4.5 - _[Projeto - Playground Functions](https://github.com/tryber/sd-t26-a-project-playground-functions/pull/78)_  
+<br>✅ 4.1 - <em>Introdução - JavaScript</em>
+<br>✅ 4.1 - <em>JavaScript - Primeiros passos</em>
+<br>✅ 4.2 - <em>JavaScript - Array e loop For</em>
+<br>✅ 4.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
+<br>✅ 4.4 - <em>JavaScript - Objetos e funções</em>
+<br>✅ 4.5 - <em>_[Projeto - Playground Functions](https://github.com/tryber/sd-t26-a-project-playground-functions/pull/78)_</em>  
 
 <strong>Bloco 5: Introdução - JavaScript - Projetos</strong>
 <br>✅ 5.1 - JavaScript - DOM e seletores
