@@ -39,34 +39,34 @@
 <br>✅ 5.1 - JavaScript - DOM e seletores
 <br>✅ 5.2 - JavaScript - Trabalhando com elementos
 <br>✅ 5.3 - JavaScript - Eventos
-<br>🟩 5.4 - JavaScript - Web Storage
-<br>🟩 5.5 - Fundamentos - JavaScript - Projetos
-<br>🟩 5.5 - Projeto - Arte com Pixels
-<br>🟩 5.6 - (Bônus) Projeto - Lista de tarefas
-<br>🟩 5.7 - (Bônus) Projeto - Meme Generator
-<br>🟩 5.7 - (Bônus) Projeto - Adivinhe a Cor
-<br>🟩 5.7 - (Bônus) Projeto - Carta Misteriosa
+<br>⬜ 5.4 - JavaScript - Web Storage
+<br>⬜ 5.5 - Fundamentos - JavaScript - Projetos
+<br>⬜ 5.5 - Projeto - Arte com Pixels
+<br>⬜ 5.6 - (Bônus) Projeto - Lista de tarefas
+<br>⬜ 5.7 - (Bônus) Projeto - Meme Generator
+<br>⬜ 5.7 - (Bônus) Projeto - Adivinhe a Cor
+<br>⬜ 5.7 - (Bônus) Projeto - Carta Misteriosa
 
 <strong>Bloco 6: HTML & CSS avançado</strong>
-<br>🟩 6.1 - HTML & CSS - Forms
-<br>🟩 6.2 - Bibliotecas JavaScript e Frameworks CSS
-<br>🟩 6.3 - Introdução - CSS Flexbox
-<br>🟩 6.3 - CSS Flexbox - Parte 1
-<br>🟩 6.4 - CSS Flexbox - Parte 2
-<br>🟩 6.5 - CSS Responsivo - Mobile First
-<br>🟩 6.6 - Projeto - Página inicial do Facebook
+<br>⬜ 6.1 - HTML & CSS - Forms
+<br>⬜ 6.2 - Bibliotecas JavaScript e Frameworks CSS
+<br>⬜ 6.3 - Introdução - CSS Flexbox
+<br>⬜ 6.3 - CSS Flexbox - Parte 1
+<br>⬜ 6.4 - CSS Flexbox - Parte 2
+<br>⬜ 6.5 - CSS Responsivo - Mobile First
+<br>⬜ 6.6 - Projeto - Página inicial do Facebook
 
 <strong>Bloco 7: JavaScript ES6 & Testes Unitários</strong>
 
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Testes unitários em JavaScript
-- [ ] 7.4 - Projeto - JavaScript Testes Unitários
+<br>⬜ 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
+<br>⬜ 7.2 - JavaScript ES6 - Objects
+<br>⬜ 7.3 - Testes unitários em JavaScript
+<br>⬜ 7.4 - Projeto - JavaScript Testes Unitários
 
 <strong>Bloco 8: JavaScript ES6</strong>
 
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.5 - Projeto - Zoo functions
+<br>⬜ 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+<br>⬜ 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
+<br>⬜ 8.3 - JavaScript ES6 - Higher Order Functions - reduce
+<br>⬜ 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+<br>⬜ 8.5 - Projeto - Zoo functions
