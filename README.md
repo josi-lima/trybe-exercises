@@ -56,7 +56,7 @@
 <br>⬜ 6.3 - CSS Flexbox - Parte 1
 <br>⬜ 6.4 - CSS Flexbox - Parte 2
 <br>⬜ 6.5 - CSS Responsivo - Mobile First
-<br>⬜ 6.6 - Projeto - Página inicial do Facebook
+<br>⬜ 6.6 - Projeto - Trybewarts
 
 <strong>Bloco 7: JavaScript ES6 & Testes Unitários</strong>
 <br>⬜ 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
