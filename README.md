@@ -168,6 +168,14 @@
 
 🟪 <strong>Bloco 26: Programação Orientada a Objetos (POO) e SOLID</strong>
 
+🟪 <strong>Bloco 27: Projeto TFC - Trybe Futebol Clube</strong>
+
+🟪 <strong>Bloco 28: Introdução ao MongoDB</strong>
+
+🟪 <strong>Bloco 29: APIs Orientadas a Objetos e NoSQL</strong>
+
+
+
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
