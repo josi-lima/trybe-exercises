@@ -23,7 +23,7 @@
 <br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
 <br>⬜ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
 <br>⬜ 2.4 - <em>HTML Semântico</em>
-<br>⬜ 2.5 - <em>[Projeto HTML e CSS - Lessons Learned]</em>
+<br>⬜ 2.5 - <em>Projeto HTML e CSS - Lessons Learned</em>
 
 🟦 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
 <br>⬜ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
@@ -31,7 +31,7 @@
 <br>⬜ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
 <br>⬜ 3.4 - <em>JavaScript - Objetos e funções</em>
 <br>⬜ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
-<br>⬜ 3.6 - <em>[Projeto - Playground Functions]</em>  
+<br>⬜ 3.6 - <em>Projeto - Playground Functions</em>  
 
 🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>⬜ 4.1 - <em>JavaScript - DOM e seletores</em>
@@ -146,7 +146,7 @@
 <br>⬜ 20.3 - Transformando ideias em um modelo de banco de dados
 <br>⬜ 20.4 - Projeto - One For All
 
-🟪 <strong>Bloco 21:  Introdução ao desenvolvimento Web com Node.js</strong>
+🟪 <strong>Bloco 21: Introdução ao desenvolvimento Web com Node.js</strong>
 <br>⬜ 21.1 - Node.js: Runtime Assíncrono
 <br>⬜ 21.2 - Node.js: API Rest com Express
 <br>⬜ 21.3 - Node.js: Testes de Integração
@@ -154,9 +154,21 @@
 <br>⬜ 21.5 - Node.js: Express e MySQL
 <br>⬜ 21.6 - Projeto - Talker Manager
 
+🟪 <strong>Bloco 22: Arquitetura de Software: Model, Service e Controller</strong>
+<br>⬜ 22.1 - Arquitetura de Software - Camada Model
+<br>⬜ 22.2 - Arquitetura de Software - Camada Service
+<br>⬜ 22.3 - Arquitetura de Software - Camada Controller
+<br>⬜ 22.4 - Projeto - Store Manager
 
+🟪 <strong>Bloco 23: Node.js: ORM e Autenticação</strong>
 
+🟪 <strong>Bloco 24: Masterclass: Implantação de Aplicações na Nuvem</strong>
 
+🟪 <strong>Bloco 25: Introdução a TypeScript</strong>
+
+🟪 <strong>Bloco 26: Programação Orientada a Objetos (POO) e SOLID</strong>
 
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
+
+## Ciência da Computação ⏳
