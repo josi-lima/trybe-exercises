@@ -12,7 +12,7 @@
 
 ## Fundamentos de Desenvolvimento Web ⏳
 
-<strong>Bloco 1: Unix, Shell $ Git</strong>
+<strong>Bloco 1: Unix, Shell & Git</strong>
 <br>✅ 1.1 - <em>Unix & Bash - Parte 1</em>
 <br>✅ 1.2 - <em>Unix & Bash - Parte 2</em>
 <br>✅ 1.3 - <em>Git & GitHub  - O que é e para que serve</em>
@@ -46,26 +46,26 @@
 <br>⬜ 4.6 - (Bônus) Projeto - Carta Misteriosa
 
 <strong>Bloco 5: HTML & CSS avançado</strong>
-<br>⬜ 6.1 - HTML & CSS - Forms
-<br>⬜ 6.2 - Bibliotecas JavaScript e Frameworks CSS
-<br>⬜ 6.3 - Introdução - CSS Flexbox
-<br>⬜ 6.3 - CSS Flexbox - Parte 1
-<br>⬜ 6.4 - CSS Flexbox - Parte 2
-<br>⬜ 6.5 - CSS Responsivo - Mobile First
-<br>⬜ 6.6 - Projeto - Trybewarts
+<br>⬜ 5.1 - HTML & CSS - Forms
+<br>⬜ 5.2 - Bibliotecas JavaScript e Frameworks CSS
+<br>⬜ 5.3 - CSS Flexbox - Parte 1
+<br>⬜ 5.4 - CSS Flexbox - Parte 2
+<br>⬜ 5.5 - CSS Responsivo - Mobile First
+<br>⬜ 5.6 - Projeto - Trybewarts
 
-<strong>Bloco 7: JavaScript ES6 & Testes Unitários</strong>
-<br>⬜ 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-<br>⬜ 7.2 - JavaScript ES6 - Objects
-<br>⬜ 7.3 - Testes unitários em JavaScript
-<br>⬜ 7.4 - Projeto - JavaScript Testes Unitários
+<strong>Bloco 6: JavaScript ES6 & Testes Unitários</strong>
+<br>⬜ 6.1 - Fluxo de exceções e manipulação de objetos
+<br>⬜ 6.2 - Primeiros passos em Jest
+<br>⬜ 6.3 - Matchers e cobertura de código
+<br>⬜ 6.4 - Projeto - JavaScript Testes Unitários
 
-<strong>Bloco 8: Higher Order Functions em JavaScript ES6</strong>
-<br>⬜ 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-<br>⬜ 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-<br>⬜ 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-<br>⬜ 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-<br>⬜ 8.5 - Projeto - Zoo functions
+<strong>Bloco 7: Higher Order Functions em JavaScript ES6</strong>
+<br>⬜ 7.1 - Introdução a Higher Order Functions
+<br>⬜ 7.2 - Higher Order Functions - sort e map
+<br>⬜ 7.3 - Higher Order Functions - filter e reduce
+<br>⬜ 7.4 - JavaScript ES6 - spread operator, rest parameter e object destructuring
+<br>⬜ 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
+<br>⬜ 7.6 - Projeto - Zoo functions
 
 <hr>
 
