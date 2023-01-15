@@ -18,14 +18,14 @@
 <br>✅ 1.3 - <em>Git & GitHub  - O que é e para que serve</em>
 <br>✅ 1.4 - <em>Git & GitHub - Entendendo os comandos</em>
 
-🔵 <strong>Bloco 2: Introdução à HTML & CSS</strong>
+🟦 <strong>Bloco 2: Introdução à HTML & CSS</strong>
 <br>✅ 2.1 - <em>HTML & CSS - Estruturas de página</em>
 <br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
 <br>⬜ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
 <br>⬜ 2.4 - <em>HTML Semântico</em>
 <br>⬜ 2.5 - <em>[Projeto HTML e CSS - Lessons Learned]</em>
 
-🔵 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
+🟦 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
 <br>⬜ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
 <br>⬜ 3.2 - <em>JavaScript - Array e loop For</em>
 <br>⬜ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
@@ -33,7 +33,7 @@
 <br>⬜ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
 <br>⬜ 3.6 - <em>[Projeto - Playground Functions]</em>  
 
-🔵 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
+🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>⬜ 4.1 - <em>JavaScript - DOM e seletores</em>
 <br>⬜ 4.2 - <em>JavaScript - Trabalhando com elementos</em>
 <br>⬜ 4.3 - <em>JavaScript - Eventos</em>
