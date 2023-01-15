@@ -8,7 +8,7 @@
 
 💻 O programa de desenvolvimento web full-stack conta com mais de 1500 horas de treinamento. O currículo abrange fundamentos de desenvolvimento web, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e tópicos relacionados a soft skills.
 
-<hr>
+<hr>![colorful-line](https://user-images.githubusercontent.com/108018406/212564963-34932873-7845-4b10-aafc-4cf4f78af17c.png)
 
 ## Fundamentos de Desenvolvimento Web ⏳
 
