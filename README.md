@@ -8,7 +8,7 @@
 
 💻 O programa de desenvolvimento web full-stack conta com mais de 1500 horas de treinamento. O currículo abrange fundamentos de desenvolvimento web, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e tópicos relacionados a soft skills.
 
-<hr>![colorful-line](https://user-images.githubusercontent.com/108018406/212564963-34932873-7845-4b10-aafc-4cf4f78af17c.png)
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1000" height="65" />
 
 ## Fundamentos de Desenvolvimento Web ⏳
 
@@ -67,7 +67,7 @@
 <br>⬜ 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 <br>⬜ 7.6 - Projeto - Zoo functions
 
-<hr>
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1000" height="65" />
 
 ## Desenvolvimento Front-end ⏳
 
@@ -123,7 +123,7 @@
 <strong>Bloco 18: Projeto Final de Front-end</strong>
 <br>⬜ 18-1: Projeto - App de Receitas
 
-<hr>
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1000" height="65" />
 
 ## Desenvolvimento Back-end ⏳
 
@@ -142,4 +142,4 @@
 <br>⬜ 20-4: Manipulando tabelas
 <br>⬜ 20-5: Projeto - All For One
 
-
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1000" height="65" />
