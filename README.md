@@ -93,35 +93,35 @@
 <br>⬜ 11.2 - React Router
 <br>⬜ 11.3 - Projeto - TrybeTunes
  
-🟧 <strong>Bloco 13: Metodologias Ágeis</strong>
-<br>⬜ 13-1: Metodologias Ágeis
-<br>⬜ 13-2: Projeto - Frontend Online Store
+🟧 <strong>Bloco 12: Metodologias Ágeis</strong>
+<br>⬜ 12.1 - Metodologias Ágeis
+<br>⬜ 12.2 - Projeto - Frontend Online Store
  
-🟧 <strong>Bloco 14: Testes automatizados com React Testing Library</strong>
+🟧 <strong>Bloco 13: Testes automatizados com React Testing Library</strong>
 <br>⬜ 14-1: RTL - Primeiros Passos 
 <br>⬜ 14-2: RTL - Mocks e Inputs
 <br>⬜ 14-3: RTL - Testando React Router
 <br>⬜ 14-4: Projeto - Testes em React
  
-🟧 <strong>Bloco 15: Gerenciamento de estado com Redux</strong>
-<br>⬜ 15-1: Introdução ao Redux - O estado global da aplicação
-<br>⬜ 15-2: Usando o Redux no React
-<br>⬜ 15-3: Usando o Redux no React - Prática
-<br>⬜ 15-4: Usando o Redux no React - Actions assíncronas
-<br>⬜ 15-5: Testes em React-Redux
-<br>⬜ 15-6: Projeto - Trybe Wallet
+🟧 <strong>Bloco 14: Gerenciamento de estado com Redux</strong>
+<br>⬜ 14.1 - Introdução ao Redux - O estado global da aplicação
+<br>⬜ 14.2 - Usando o Redux no React
+<br>⬜ 14.3 - Usando o Redux no React - Prática
+<br>⬜ 14.4 - Usando o Redux no React - Actions assíncronas
+<br>⬜ 14.5 - Testes em React-Redux
+<br>⬜ 14.6 - Projeto - Trybe Wallet
  
-🟧 <strong>Bloco 16: Projeto React</strong>
-<br>⬜ 16-1: Projeto - Jogo de Trivia
+🟧 <strong>Bloco 15: Projeto React</strong>
+<br>⬜ 15.1 - Projeto - Jogo de Trivia
  
-🟧 <strong>Bloco 17: Context API & React Hooks</strong>
-<br>⬜ 17-1: Context API do React
-<br>⬜ 17-2: React Hooks - useState e useContext
-<br>⬜ 17-3: React Hooks - useEffect e Hooks customizados
-<br>⬜ 17-4: Projeto - StarWars Datatable com Context API e Hooks
+🟧 <strong>Bloco 16: Context API & React Hooks</strong>
+<br>⬜ 16.2 - React Hooks - useState e useContext
+<br>⬜ 16.1 - Context API do React
+<br>⬜ 16.3 - Custom Hooks
+<br>⬜ 16.4 - Projeto - StarWars Datatable com Context API e Hooks
  
-🟧 <strong>Bloco 18: Projeto Final de Front-end</strong>
-<br>⬜ 18-1: Projeto - App de Receitas
+🟧 <strong>Bloco 17: Projeto Final de Front-end</strong>
+<br>⬜ 17.1 - Projeto - App de Receitas
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
