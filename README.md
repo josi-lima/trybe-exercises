@@ -127,19 +127,36 @@
 
 ## Desenvolvimento Back-end ⏳
 
-🟪 <strong>Bloco 19: Docker: Utilizando containers</strong>
-<br>⬜ 19-1: Introdução - Back-end
-<br>⬜ 19-1: Utilizando containers - Docker
-<br>⬜ 19-2: Manipulando imagens no Docker
-<br>⬜ 19-3: Orquestrando Containers com Docker Compose
-<br>⬜ 19-4: Projeto - Docker To do List
+🟪 <strong>Bloco 18: Docker: Utilizando containers</strong>
+<br>⬜ 18.1 - Utilizando containers - Docker
+<br>⬜ 18.2 - Manipulando imagens no Docker
+<br>⬜ 18.3 - Orquestrando Containers com Docker Compose
+<br>⬜ 18.4 - Projeto - Docker To-do List
 
-🟪 <strong>Bloco 20: Introdução à SQL</strong>
-<br>⬜ 20-1: Introdução - Banco de Dados Relacionais
-<br>⬜ 20-1: Banco de Dados SQL
-<br>⬜ 20-2: Encontrando dados em um banco de dados
-<br>⬜ 20-3: Filtrando dados de forma específica
-<br>⬜ 20-4: Manipulando tabelas
-<br>⬜ 20-5: Projeto - All For One
+🟪 <strong>Bloco 19: Introdução à SQL</strong>
+<br>⬜ 19.1 - Banco de Dados SQL
+<br>⬜ 19.2 - Encontrando dados em um banco de dados
+<br>⬜ 19.3 - Filtrando dados de forma específica 
+<br>⬜ 19.4 - Manipulando tabelas
+<br>⬜ 19.5 - Projeto - All For One
+
+🟪 <strong>Bloco 20: Funções SQL, JOINs e Normatização</strong>
+<br>⬜ 20.1 - Funções mais usadas no SQL
+<br>⬜ 20.2 - Descomplicando JOINs
+<br>⬜ 20.3 - Transformando ideias em um modelo de banco de dados
+<br>⬜ 20.4 - Projeto - One For All
+
+🟪 <strong>Bloco 21:  Introdução ao desenvolvimento Web com Node.js</strong>
+<br>⬜ 21.1 - Node.js: Runtime Assíncrono
+<br>⬜ 21.2 - Node.js: API Rest com Express
+<br>⬜ 21.3 - Node.js: Testes de Integração
+<br>⬜ 21.4 - Node.js: Express e Middlewares
+<br>⬜ 21.5 - Node.js: Express e MySQL
+<br>⬜ 21.6 - Projeto - Talker Manager
+
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
