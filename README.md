@@ -21,8 +21,8 @@
 <strong>Bloco 2: Introdução à HTML & CSS</strong>
 <br>✅ 2.1 - <em>HTML & CSS - Estruturas de página</em>
 <br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
-<br>✅ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
-<br>✅ 2.4 - <em>HTML Semântico</em>
+<br>⬜ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
+<br>⬜ 2.4 - <em>HTML Semântico</em>
 <br>⬜ 2.5 - <em>[Projeto HTML e CSS - Lessons Learned]</em>
 
 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
@@ -78,20 +78,20 @@
 <br>⬜ 8.4 - Async / await e Testes Assíncronos
 <br>⬜ 8.5 - Projeto - Carrinho de Compras
 
-<strong>Bloco 10: Introdução à React</strong>
-<br>⬜ 10-1: 'Hello, world!' no React!
-<br>⬜ 10-2: Componentes React
-<br>⬜ 10-3: Projeto - Sistema Solar
+<strong>Bloco 9: Introdução à React</strong>
+<br>⬜ 9.1 - 'Hello, world!' no React!
+<br>⬜ 9.2 - Componentes React
+<br>⬜ 9.3 - Projeto - Sistema Solar
  
-<strong>Bloco 11: Componentes com Estado, Eventos e Formulários com React</strong>
-<br>⬜ 11-1: Components com estado e eventos
-<br>⬜ 11-2: Formulários no React
-<br>⬜ 11-3: Projeto - Tryunfo
+<strong>Bloco 10: Componentes com Estado, Eventos e Formulários com React</strong>
+<br>⬜ 10.1 - Components com estado e eventos
+<br>⬜ 10.2 - Formulários no React
+<br>⬜ 10.3 - Projeto - Tryunfo
  
-<strong>Bloco 12: Ciclo de vida de Componentes e React Router</strong>
-<br>⬜ 12-1: Ciclo de vida de componentes em React
-<br>⬜ 12-2: React Router
-<br>⬜ 12-3: Projeto - TrybeTunes
+<strong>Bloco 11: Ciclo de vida de Componentes e React Router</strong>
+<br>⬜ 11.1 - Ciclo de vida de componentes em React
+<br>⬜ 11.2 - React Router
+<br>⬜ 11.3 - Projeto - TrybeTunes
  
 <strong>Bloco 13: Metodologias Ágeis</strong>
 <br>⬜ 13-1: Metodologias Ágeis
