@@ -31,7 +31,7 @@
 <br>⬜ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
 <br>⬜ 3.4 - <em>JavaScript - Objetos e funções</em>
 <br>⬜ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
-<br>⬜ 3.6 - <em>_[Projeto - Playground Functions](https://github.com/tryber/sd-t26-a-project-playground-functions/pull/78)_</em>  
+<br>⬜ 3.6 - <em>[Projeto - Playground Functions]</em>  
 
 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>⬜ 4.1 - <em>JavaScript - DOM e seletores</em>
@@ -71,12 +71,12 @@
 
 ## Desenvolvimento Front-end ⏳
 
-<strong>Bloco 9: JavaScript e Testes Assíncronos</strong>
-<br>⬜ 9-1: Introdução - Front-end
-<br>⬜ 9-1: JavaScript Assíncrono e Callbacks
-<br>⬜ 9-2: JavaScript Assíncrono - Fetch API e async/await
-<br>⬜ 9-3: Jest - Testes Assíncronos
-<br>⬜ 9-4: Projeto - Carrinho de Compras
+<strong>Bloco 8: Introdução ao Frontend e JavaScript Assíncrono</strong>
+<br>⬜ 8.1 - Ambiente de desenvolvimento
+<br>⬜ 8.2 - JavaScript Assíncrono - Promises e Fetch
+<br>⬜ 8.3 - Prática - Casa de Câmbio
+<br>⬜ 8.4 - Async / await e Testes Assíncronos
+<br>⬜ 8.5 - Projeto - Carrinho de Compras
 
 <strong>Bloco 10: Introdução à React</strong>
 <br>⬜ 10-1: 'Hello, world!' no React!
