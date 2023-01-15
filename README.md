@@ -8,7 +8,7 @@
 
 💻 O programa de desenvolvimento web full-stack conta com mais de 1500 horas de treinamento. O currículo abrange fundamentos de desenvolvimento web, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e tópicos relacionados a soft skills.
 
-<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1000" height="65" />
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
 ## Fundamentos de Desenvolvimento Web ⏳
 
@@ -18,14 +18,14 @@
 <br>✅ 1.3 - <em>Git & GitHub  - O que é e para que serve</em>
 <br>✅ 1.4 - <em>Git & GitHub - Entendendo os comandos</em>
 
-<strong>Bloco 2: Introdução à HTML & CSS</strong>
+💻 <strong>Bloco 2: Introdução à HTML & CSS</strong>
 <br>✅ 2.1 - <em>HTML & CSS - Estruturas de página</em>
 <br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
 <br>⬜ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
 <br>⬜ 2.4 - <em>HTML Semântico</em>
 <br>⬜ 2.5 - <em>[Projeto HTML e CSS - Lessons Learned]</em>
 
-<strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
+💻 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
 <br>⬜ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
 <br>⬜ 3.2 - <em>JavaScript - Array e loop For</em>
 <br>⬜ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
@@ -33,7 +33,7 @@
 <br>⬜ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
 <br>⬜ 3.6 - <em>[Projeto - Playground Functions]</em>  
 
-<strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
+💻 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>⬜ 4.1 - <em>JavaScript - DOM e seletores</em>
 <br>⬜ 4.2 - <em>JavaScript - Trabalhando com elementos</em>
 <br>⬜ 4.3 - <em>JavaScript - Eventos</em>
@@ -45,7 +45,7 @@
 <br>⬜ 4.6 - (Bônus) Projeto - Adivinhe a Cor
 <br>⬜ 4.6 - (Bônus) Projeto - Carta Misteriosa
 
-<strong>Bloco 5: HTML & CSS avançado</strong>
+💻 <strong>Bloco 5: HTML & CSS avançado</strong>
 <br>⬜ 5.1 - HTML & CSS - Forms
 <br>⬜ 5.2 - Bibliotecas JavaScript e Frameworks CSS
 <br>⬜ 5.3 - CSS Flexbox - Parte 1
@@ -53,13 +53,13 @@
 <br>⬜ 5.5 - CSS Responsivo - Mobile First
 <br>⬜ 5.6 - Projeto - Trybewarts
 
-<strong>Bloco 6: JavaScript ES6 & Testes Unitários</strong>
+💻 <strong>Bloco 6: JavaScript ES6 & Testes Unitários</strong>
 <br>⬜ 6.1 - Fluxo de exceções e manipulação de objetos
 <br>⬜ 6.2 - Primeiros passos em Jest
 <br>⬜ 6.3 - Matchers e cobertura de código
 <br>⬜ 6.4 - Projeto - JavaScript Testes Unitários
 
-<strong>Bloco 7: Higher Order Functions em JavaScript ES6</strong>
+💻 <strong>Bloco 7: Higher Order Functions em JavaScript ES6</strong>
 <br>⬜ 7.1 - Introdução a Higher Order Functions
 <br>⬜ 7.2 - Higher Order Functions - sort e map
 <br>⬜ 7.3 - Higher Order Functions - filter e reduce
@@ -67,11 +67,11 @@
 <br>⬜ 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 <br>⬜ 7.6 - Projeto - Zoo functions
 
-<img src= "https://user-images.githubusercontent.com/108018406/212567003-53d4eafa-4fd4-447f-b4eb-5ed4af26d02e.png" width="1050" height="70" />
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
 ## Desenvolvimento Front-end ⏳
 
-<strong>Bloco 8: Introdução ao Frontend e JavaScript Assíncrono</strong>
+💻 <strong>Bloco 8: Introdução ao Frontend e JavaScript Assíncrono</strong>
 <br>⬜ 8.1 - Ambiente de desenvolvimento
 <br>⬜ 8.2 - JavaScript Assíncrono - Promises e Fetch
 <br>⬜ 8.3 - Prática - Casa de Câmbio
@@ -123,7 +123,7 @@
 <strong>Bloco 18: Projeto Final de Front-end</strong>
 <br>⬜ 18-1: Projeto - App de Receitas
 
-<img src= "https://user-images.githubusercontent.com/108018406/212567003-53d4eafa-4fd4-447f-b4eb-5ed4af26d02e.png" width="1050" height="70" />
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
 ## Desenvolvimento Back-end ⏳
 
@@ -142,4 +142,4 @@
 <br>⬜ 20-4: Manipulando tabelas
 <br>⬜ 20-5: Projeto - All For One
 
-<img src= "https://user-images.githubusercontent.com/108018406/212567003-53d4eafa-4fd4-447f-b4eb-5ed4af26d02e.png" width="1050" height="70" />
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
