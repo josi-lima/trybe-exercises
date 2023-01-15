@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 # Bootcamp Trybe - Exercises <img src="https://user-images.githubusercontent.com/108018406/212557691-c2f6249a-0db6-4e65-b44f-612336f9cdea.jpg" width="45" height="45" />
 
 ![trybe-logo (2)](https://user-images.githubusercontent.com/108018406/212561861-2601bbb7-c04c-4471-9419-02a3ae55b82c.png)
