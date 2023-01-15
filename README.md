@@ -182,7 +182,7 @@
 
 🟥 <strong>Bloco 31: Introdução à Python</strong>
 
-🟥 <strong>Bloco 32: Padroões de Projeto</strong>
+🟥 <strong>Bloco 32: Padrões de Projeto</strong>
 
 🟥 <strong>Bloco 33: Redes e Raspagem de Dados</strong>
 
