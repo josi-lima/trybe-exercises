@@ -180,17 +180,17 @@
 
 ## Ciência da Computação ⏳
 
-🟪 <strong>Bloco 31: Introdução à Python</strong>
+🟥 <strong>Bloco 31: Introdução à Python</strong>
 
-🟪 <strong>Bloco 32: Padroões de Projeto</strong>
+🟥 <strong>Bloco 32: Padroões de Projeto</strong>
 
-🟪 <strong>Bloco 33: Redes e Raspagem de Dados</strong>
+🟥 <strong>Bloco 33: Redes e Raspagem de Dados</strong>
 
-🟪 <strong>Bloco 34: Algoritmos</strong>
+🟥 <strong>Bloco 34: Algoritmos</strong>
 
-🟪 <strong>Bloco 35: Estrutura de Dados I: Arrays, listas, filas e pilhas</strong>
+🟥 <strong>Bloco 35: Estrutura de Dados I: Arrays, listas, filas e pilhas</strong>
 
-🟪 <strong>Bloco 36: Estrutura de Dados II: Hashmaps e Sets</strong>
+🟥 <strong>Bloco 36: Estrutura de Dados II: Hashmaps e Sets</strong>
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
