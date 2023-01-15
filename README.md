@@ -12,7 +12,7 @@
 
 ## Fundamentos de Desenvolvimento Web ⏳
 
-<strong>Bloco 1: Unix, Shell & Git</strong>
+💻 <strong>Bloco 1: Unix, Shell & Git</strong>
 <br>✅ 1.1 - <em>Unix & Bash - Parte 1</em>
 <br>✅ 1.2 - <em>Unix & Bash - Parte 2</em>
 <br>✅ 1.3 - <em>Git & GitHub  - O que é e para que serve</em>
@@ -67,7 +67,7 @@
 <br>⬜ 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 <br>⬜ 7.6 - Projeto - Zoo functions
 
-<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1000" height="65" />
+<img src= "https://user-images.githubusercontent.com/108018406/212567003-53d4eafa-4fd4-447f-b4eb-5ed4af26d02e.png" width="1050" height="70" />
 
 ## Desenvolvimento Front-end ⏳
 
@@ -123,7 +123,7 @@
 <strong>Bloco 18: Projeto Final de Front-end</strong>
 <br>⬜ 18-1: Projeto - App de Receitas
 
-<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1000" height="65" />
+<img src= "https://user-images.githubusercontent.com/108018406/212567003-53d4eafa-4fd4-447f-b4eb-5ed4af26d02e.png" width="1050" height="70" />
 
 ## Desenvolvimento Back-end ⏳
 
@@ -142,4 +142,4 @@
 <br>⬜ 20-4: Manipulando tabelas
 <br>⬜ 20-5: Projeto - All For One
 
-<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1000" height="65" />
+<img src= "https://user-images.githubusercontent.com/108018406/212567003-53d4eafa-4fd4-447f-b4eb-5ed4af26d02e.png" width="1050" height="70" />
