@@ -10,46 +10,40 @@
 
 ## Fundamentos de Desenvolvimento Web ⏳
 
-<strong>Bloco 1: Introdução - Unix & Shell</strong>
-<br>✅ 1.1 - <em>Fundamentos do Desenvolvimento Web</em>
-<br>✅ 1.1 - <em>Introdução - Unix & Shell</em>
-<br>✅ 1.2 - <em>Unix & Bash - Parte 1</em>
-<br>✅ 1.3 - <em>Unix & Bash - Parte 2</em>
+<strong>Bloco 1: Unix, Shell $ Git</strong>
+<br>✅ 1.1 - <em>Unix & Bash - Parte 1</em>
+<br>✅ 1.2 - <em>Unix & Bash - Parte 2</em>
+<br>✅ 1.3 - <em>Git & GitHub  - O que é e para que serve</em>
+<br>✅ 1.4 - <em>Git & GitHub - Entendendo os comandos</em>
 
-<strong>Bloco 2: Git, GitHub e Internet</strong>
-<br>✅ 2.1 - <em>Git & GitHub  - O que é e para que serve</em>
-<br>✅ 2.2 - <em>Git & GitHub - Entendendo os comandos</em>
-<br>✅ 2.3 - <em>Internet - Entendendo como ela funciona</em>
+<strong>Bloco 2: Introdução à HTML & CSS</strong>
+<br>✅ 2.1 - <em>HTML & CSS - Estruturas de página</em>
+<br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
+<br>✅ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
+<br>✅ 2.4 - <em>HTML Semântico</em>
+<br>⬜ 2.5 - <em>[Projeto HTML e CSS - Lessons Learned]</em>
 
-<strong>Bloco 3: Introdução à HTML & CSS</strong>
-<br>✅ 3.1 - <em>Introdução - HTML & CSS</em>
-<br>✅ 3.1 - <em>HTML & CSS - Estruturas de página</em>
-<br>✅ 3.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
-<br>✅ 3.3 - <em>HTML & CSS - Seletores e posicionamento</em>
-<br>✅ 3.4 - <em>HTML Semântico</em>
-<br>✅ 3.5 - <em>_[Projeto HTML e CSS - Lessons Learned](https://github.com/tryber/sd-026-a-project-lessons-learned/pull/122)_</em>
+<strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
+<br>⬜ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
+<br>⬜ 3.2 - <em>JavaScript - Array e loop For</em>
+<br>⬜ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
+<br>⬜ 3.4 - <em>JavaScript - Objetos e funções</em>
+<br>⬜ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
+<br>⬜ 3.6 - <em>_[Projeto - Playground Functions](https://github.com/tryber/sd-t26-a-project-playground-functions/pull/78)_</em>  
 
-<strong>Bloco 4: Introdução à JavaScript e Lógica de Programação</strong>
-<br>✅ 4.1 - <em>Introdução - JavaScript</em>
-<br>✅ 4.1 - <em>JavaScript - Primeiros passos</em>
-<br>✅ 4.2 - <em>JavaScript - Array e loop For</em>
-<br>✅ 4.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
-<br>✅ 4.4 - <em>JavaScript - Objetos e funções</em>
-<br>✅ 4.5 - <em>_[Projeto - Playground Functions](https://github.com/tryber/sd-t26-a-project-playground-functions/pull/78)_</em>  
+<strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
+<br>⬜ 4.1 - <em>JavaScript - DOM e seletores</em>
+<br>⬜ 4.2 - <em>JavaScript - Trabalhando com elementos</em>
+<br>⬜ 4.3 - <em>JavaScript - Eventos</em>
+<br>⬜ 4.4 - <em>JavaScript - Web Storage</em>
+<br>⬜ 4.5 - JavaScript Projects
+<br>⬜ 4.5 - Projeto - Arte com Pixels
+<br>⬜ 4.6 - (Bônus) Projeto - Lista de tarefas
+<br>⬜ 4.6 - (Bônus) Projeto - Meme Generator
+<br>⬜ 4.6 - (Bônus) Projeto - Adivinhe a Cor
+<br>⬜ 4.6 - (Bônus) Projeto - Carta Misteriosa
 
-<strong>Bloco 5: JavaScript: DOM, Eventos e Web Storage</strong>
-<br>✅ 5.1 - <em>JavaScript - DOM e seletores</em>
-<br>✅ 5.2 - <em>JavaScript - Trabalhando com elementos</em>
-<br>✅ 5.3 - <em>JavaScript - Eventos</em>
-<br>✅ 5.4 - <em>JavaScript - Web Storage</em>
-<br>⬜ 5.5 - JavaScript Projects
-<br>⬜ 5.5 - Projeto - Arte com Pixels
-<br>⬜ 5.6 - (Bônus) Projeto - Lista de tarefas
-<br>⬜ 5.6 - (Bônus) Projeto - Meme Generator
-<br>⬜ 5.6 - (Bônus) Projeto - Adivinhe a Cor
-<br>⬜ 5.6 - (Bônus) Projeto - Carta Misteriosa
-
-<strong>Bloco 6: HTML & CSS avançado</strong>
+<strong>Bloco 5: HTML & CSS avançado</strong>
 <br>⬜ 6.1 - HTML & CSS - Forms
 <br>⬜ 6.2 - Bibliotecas JavaScript e Frameworks CSS
 <br>⬜ 6.3 - Introdução - CSS Flexbox
