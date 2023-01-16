@@ -229,11 +229,18 @@
 <br>⬜ 34.1 - Complexidade de Algoritmos
 <br>⬜ 34.2 - Recursividade e Estratégias para solução de problemas
 <br>⬜ 34.3 - Algoritmos de ordenação e busca
-<br>⬜ 34.4 - Projeto -Algoritmos
+<br>⬜ 34.4 - Projeto - Algoritmos
 
 🟥 <strong>Bloco 35: Estrutura de Dados I: Arrays, listas, filas e pilhas</strong>
+<br>⬜ 35.1 - Arquitetura de Computadores
+<br>⬜ 35.2 - Arrays
+<br>⬜ 35.3 - Pilhas e filas
+<br>⬜ 35.4 - Projeto - Trybe is not Google
 
 🟥 <strong>Bloco 36: Estrutura de Dados II: Hashmaps e Sets</strong>
+<br>⬜ 36.1 - Hashmaps e Dict
+<br>⬜ 36.2 - Set
+<br>⬜ 36.3 - Projeto - Restaurant Orders
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
