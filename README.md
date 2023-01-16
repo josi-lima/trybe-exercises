@@ -200,7 +200,7 @@
 <br>⬜ 29.2 - APIs orientadas a objetos e NoSQL: Herança e abstração
 <br>⬜ 29.3 - Projeto - Car Shop
 
-🟪 <strong>Bloco 30: Projeto - App de Delivery</strong>
+🟪 <strong>Bloco 30: Projeto final de Back-end</strong>
 <br>⬜ 30.1 - Projeto - App de Delivery
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
@@ -226,6 +226,10 @@
 <br>⬜ 33.4 - Projeto - Tech News
 
 🟥 <strong>Bloco 34: Algoritmos</strong>
+<br>⬜ 34.1 - Complexidade de Algoritmos
+<br>⬜ 34.2 - Recursividade e Estratégias para solução de problemas
+<br>⬜ 34.3 - Algoritmos de ordenação e busca
+<br>⬜ 34.4 - Projeto -Algoritmos
 
 🟥 <strong>Bloco 35: Estrutura de Dados I: Arrays, listas, filas e pilhas</strong>
 
