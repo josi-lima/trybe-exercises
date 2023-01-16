@@ -171,10 +171,21 @@
 <br>⬜ 24.1 - Infraestrutura: Deploy com Railway
 
 🟪 <strong>Bloco 25: Introdução a TypeScript</strong>
+<br>⬜ 25.1 - Introdução a TypeScript
+<br>⬜ 25.2 - Tipagem Estática e Generics
+<br>⬜ 25.3 - Express com TypeScript
+<br>⬜ 25.4 - Projeto - Trybesmith
 
 🟪 <strong>Bloco 26: Programação Orientada a Objetos (POO) e SOLID</strong>
+<br>⬜ 26.1 - Introdução à Orientação a Objetos
+<br>⬜ 26.2 - Herança e Composição
+<br>⬜ 26.3 - Polimorfismo
+<br>⬜ 26.4 - SOLID: Introdução e Princípios S, O e D
+<br>⬜ 26.5 - SOLID: Princípios L e I
+<br>⬜ 26.4 - Projeto - Trybers and Dragons
 
 🟪 <strong>Bloco 27: Projeto TFC - Trybe Futebol Clube</strong>
+<br>⬜ 27.1 - Projeto TFC
 
 🟪 <strong>Bloco 28: Introdução ao MongoDB</strong>
 
