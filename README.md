@@ -208,10 +208,22 @@
 ## Ciência da Computação ⏳
 
 🟥 <strong>Bloco 31: Introdução à Python</strong>
+<br>⬜ 31.1 - Aprendendo Python
+<br>⬜ 31.2 - Entrada e saída de Dados
+<br>⬜ 31.3 - Testes
+<br>⬜ 31.3 - Projeto - Job Insights
 
 🟥 <strong>Bloco 32: Padrões de Projeto</strong>
+<br>⬜ 32.1 - POO em Python
+<br>⬜ 32.2 - Padrões: Iterator, Adapter e Strategy
+<br>⬜ 32.3 - Padrões: Decorator, Observer e Factory
+<br>⬜ 32.4 - Projeto - Relatórios de Estoque
 
 🟥 <strong>Bloco 33: Redes e Raspagem de Dados</strong>
+<br>⬜ 33.1 - Arquitetura de Redes
+<br>⬜ 33.2 - Raspagem de Dados
+<br>⬜ 33.3 - Outras ferramentas de Raspagem de Dados
+<br>⬜ 33.4 - Projeto - Tech News
 
 🟥 <strong>Bloco 34: Algoritmos</strong>
 
