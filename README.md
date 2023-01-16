@@ -188,20 +188,20 @@
 <br>⬜ 27.1 - Projeto TFC
 
 🟪 <strong>Bloco 28: Introdução ao MongoDB</strong>
-⬜ 28.1 - MongoDB - Introdução
-⬜ 28.2 - Filter Operators
-⬜ 28.3 - Operadores de consulta
-⬜ 28.4 - Updates Simples
-⬜ 28.5 - Updates Complexos: arrays
-⬜ 28.6 - Projeto - Commerce
+<br>⬜ 28.1 - MongoDB - Introdução
+<br>⬜ 28.2 - Filter Operators
+<br>⬜ 28.3 - Operadores de consulta
+<br>⬜ 28.4 - Updates Simples
+<br>⬜ 28.5 - Updates Complexos: arrays
+<br>⬜ 28.6 - Projeto - Commerce
 
 🟪 <strong>Bloco 29: APIs Orientadas a Objetos e NoSQL</strong>
-⬜ 29.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
-⬜ 29.2 - APIs orientadas a objetos e NoSQL: Herança e abstração
-⬜ 29.3 - Projeto - Car Shop
+<br>⬜ 29.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
+<br>⬜ 29.2 - APIs orientadas a objetos e NoSQL: Herança e abstração
+<br>⬜ 29.3 - Projeto - Car Shop
 
 🟪 <strong>Bloco 30: Projeto - App de Delivery</strong>
-⬜ 30.1 - Projeto - App de Delivery
+<br>⬜ 30.1 - Projeto - App de Delivery
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
