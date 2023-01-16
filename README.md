@@ -6,7 +6,7 @@
 
 >"A Trybe é uma escola de tecnologia do futuro!" 🚀
 
-💻 O programa de desenvolvimento web full-stack conta com mais de 1500 horas de treinamento. O currículo abrange fundamentos de desenvolvimento web, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e tópicos relacionados a soft skills.
+💻 O programa de desenvolvimento web full-stack da Trybe conta com mais de 1500 horas de treinamento. O currículo abrange fundamentos de desenvolvimento web, desenvolvimento front-end e back-end, ciência da computação, engenharia de software, metodologias ágeis e tópicos relacionados a soft skills.
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
