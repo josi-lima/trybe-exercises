@@ -161,8 +161,14 @@
 <br>⬜ 22.4 - Projeto - Store Manager
 
 🟪 <strong>Bloco 23: Node.js: ORM e Autenticação</strong>
+<br>⬜ 23.1 - ORM - Interface da aplicação com o banco de dados
+<br>⬜ 23.2 - ORM - Associations 1:1 e 1:N
+<br>⬜ 23.3 - ORM - Associations N:N e Transactions
+<br>⬜ 23.4 - JWT: JSON e Web Token
+<br>⬜ 23.5 - Projeto - API de Blogs
 
 🟪 <strong>Bloco 24: Masterclass: Implantação de Aplicações na Nuvem</strong>
+<br>⬜ 24.1 - Infraestrutura: Deploy com Railway
 
 🟪 <strong>Bloco 25: Introdução a TypeScript</strong>
 
