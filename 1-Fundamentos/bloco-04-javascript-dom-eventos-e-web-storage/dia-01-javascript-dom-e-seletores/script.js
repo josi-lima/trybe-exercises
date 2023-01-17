@@ -10,7 +10,7 @@
 
 function changeText(){
     let paragraph = document.getElementsByTagName('p')[1];
-    paragraph.innerHTML = 'I will working in Canada as a software developer.';
+    paragraph.innerHTML = 'I will be working around the world as a software developer pretty soon.';
 }
 changeText();
 
