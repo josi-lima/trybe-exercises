@@ -69,7 +69,7 @@
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
-## Desenvolvimento Front-end ⏳
+## _[Desenvolvimento Front-end](https://github.com/josi-lima/trybe-exercises/tree/main/2-Front-End)_ ⏳
 
 🟧 <strong>Bloco 8: Introdução ao Frontend e JavaScript Assíncrono</strong>
 <br>⬜ 8.1 - Ambiente de desenvolvimento
@@ -125,7 +125,7 @@
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
-## Desenvolvimento Back-end ⏳
+## _[Desenvolvimento Back-end](https://github.com/josi-lima/trybe-exercises/tree/main/3-Back-End)_ ⏳
 
 🟪 <strong>Bloco 18: Docker: Utilizando containers</strong>
 <br>⬜ 18.1 - Utilizando containers - Docker
@@ -205,7 +205,7 @@
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
-## Ciência da Computação ⏳
+## _[Computer Science](https://github.com/josi-lima/trybe-exercises/tree/main/4-Computer-Science)_ ⏳
 
 🟥 <strong>Bloco 31: Introdução à Python</strong>
 <br>⬜ 31.1 - Aprendendo Python
