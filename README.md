@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
-## Fundamentos de Desenvolvimento Web ⏳
+## _[Fundamentos de Desenvolvimento Web](https://github.com/josi-lima/trybe-exercises/tree/main/1-Fundamentos)_ ⏳
 
 🟦 <strong>Bloco 1: Unix, Shell & Git</strong>
 <br>✅ 1.1 - <em>Unix & Bash - Parte 1</em>
