@@ -21,7 +21,7 @@
 🟦 <strong>Bloco 2: Introdução à HTML & CSS</strong>
 <br>✅ 2.1 - <em>HTML & CSS - Estruturas de página</em>
 <br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
-<br>⬜ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
+<br>✅ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
 <br>⬜ 2.4 - <em>HTML Semântico</em>
 <br>⬜ 2.5 - <em>Projeto HTML e CSS - Lessons Learned</em>
 
