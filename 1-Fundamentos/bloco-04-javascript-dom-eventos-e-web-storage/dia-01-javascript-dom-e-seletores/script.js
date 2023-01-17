@@ -3,10 +3,10 @@
     - document.getElementById()
     - document.getElementsByClassName()
     - document.getElementsByTagName()
-    - document.querySelector()
+    - document.querySelector() */
 
         
-1. Crie e execute uma função que mude o texto na tag `<p>-----</p>`, para uma descrição de como você se vê daqui a 2 anos. (Não gaste tempo pensando no texto e sim realizando o exercício) */
+/* 1. Crie e execute uma função que mude o texto na tag `<p>-----</p>`, para uma descrição de como você se vê daqui a 2 anos. (Não gaste tempo pensando no texto e sim realizando o exercício) */
 
 function changeText(){
     let paragraph = document.getElementsByTagName('p')[1];
