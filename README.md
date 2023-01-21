@@ -22,11 +22,11 @@
 <br>✅ 2.1 - <em>HTML & CSS - Estruturas de página</em>
 <br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
 <br>✅ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
-<br>⬜ 2.4 - <em>HTML Semântico</em>
-<br>⬜ 2.5 - <em>Projeto HTML e CSS - Lessons Learned</em>
+<br>✅ 2.4 - <em>HTML Semântico</em>
+<br>✅ 2.5 - <em>Projeto HTML e CSS - Lessons Learned</em>
 
 🟦 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
-<br>⬜ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
+<br>✅ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
 <br>⬜ 3.2 - <em>JavaScript - Array e loop For</em>
 <br>⬜ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
 <br>⬜ 3.4 - <em>JavaScript - Objetos e funções</em>
