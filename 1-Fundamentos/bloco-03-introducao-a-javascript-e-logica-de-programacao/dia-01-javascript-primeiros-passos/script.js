@@ -37,3 +37,6 @@ const findRectanglePerimeter = function (base, height) {
   return perimeter;
 }
 console.log(findRectanglePerimeter(5, 8));
+
+// ===================================================================================
+
