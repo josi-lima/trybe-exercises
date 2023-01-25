@@ -1,6 +1,6 @@
 // ======= *** FUNCTIONS - Conditions *** =============================================
 
-/* 🚀 Practice Exercise - Crie uma função que que receba a nota de uma pessoa candidata, de 01 a 100, em um desafio técnico. Implemente uma lógica que verifique se a pessoa candidata foi aprovada, reprovada ou se essa pessoa está na lista de espera. */
+/* 🚀 Practice Exercise - Crie uma função dinâmica que que receba a nota de uma pessoa candidata, de 01 a 100, em um desafio técnico. Implemente uma lógica que verifique se a pessoa candidata foi aprovada, reprovada ou se essa pessoa está na lista de espera. */
 
 // FUNÇÃO ANÔNIMA ----------------------------------
 
@@ -19,16 +19,16 @@ const checkApproval = function (score) {
     return "Infelizmente, sua nota foi zero.";
   }
 };
-console.log(checkApproval(68));
+console.log(checkApproval(68));  // Você está em nossa lista de espera!
 
 // ===================================================================================
 
-/* 🚀 Practice Exercise - Crie funções para encontrar a área e o perímetro de um retângulo de base 5 e altura 8. */
+/* 🚀 Practice Exercise - Crie funções dinâmicas para encontrar a área e o perímetro de um retângulo de base 5 e altura 8. */
 
 // ARROW FUNCTION - one line ---------------------------
 
 const findRectangleArea = (base, height) => base * height;
-console.log(findRectangleArea(5, 8));
+console.log(findRectangleArea(5, 8));  // 40
 
 // FUNÇÃO ANÔNIMA ----------------------------------
 
@@ -36,11 +36,11 @@ const findRectanglePerimeter = function (base, height) {
   const perimeter = (base + height) * 2;
   return perimeter;
 };
-console.log(findRectanglePerimeter(5, 8));
+console.log(findRectanglePerimeter(5, 8));  // 26
 
 // ===================================================================================
 
-/* 🚀 Practice Exercise - Crie uma função chamada “currentHour”, que receba um número entre 4 e 24 de sua escolha, para representar as horas do dia, e imprima uma mensagem específica de acordo com as horas do dia.*/
+/* 🚀 Practice Exercise - Crie uma função dinâmica chamada “currentHour”, que receba um número aleatório entre 4 e 24 de sua escolha, para representar as horas do dia, e imprima uma mensagem específica de acordo com as horas do dia.*/
 
 const currentHour = function (hour) {
   let message = '';  
@@ -59,4 +59,19 @@ const currentHour = function (hour) {
     }
   } return "Por favor, digite um número entre 4 e 24 de sua escolha.";
 }
-console.log(currentHour(14));
+console.log(currentHour(14));  // Vamos fazer um bolo pro café da tarde?
+
+// ===================================================================================
+
+/* 🚀 Practice Exercise - Crie um algoritmo que receba um dia da semana aleatório e verifique se é um dia de semana ou final de semana. Imprima uma mensagem específica de acordo com o dia.*/
+
+// FUNÇÃO ANÔNIMA ----------------------------------
+
+const checkDays = function (day) {
+
+  const daysOfTheWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+
+  for (let index = 0; index < daysOfTheWeek.length; index += 1) {
+    
+  }
+}
