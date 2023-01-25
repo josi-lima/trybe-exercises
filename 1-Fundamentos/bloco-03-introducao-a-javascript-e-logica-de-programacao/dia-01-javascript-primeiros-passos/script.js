@@ -63,9 +63,45 @@ console.log(currentHour(14));  // Vamos fazer um bolo pro café da tarde?
 
 // ===================================================================================
 
-/* 🚀 Practice Exercise - Crie um algoritmo que receba um dia da semana aleatório e verifique se é um dia de semana ou final de semana. Imprima uma mensagem específica de acordo com o dia.*/
+/* 🚀 Practice Exercise - Crie um algoritmo que receba um mês do ano aleatório e verifique à qual estação do ano aquele mês corresponde. Imprima no terminal uma mensagem informando a estação do ano com a seguinte mensagem: 
+"In the month of X, the season of the year is Y." */
 
 // FUNÇÃO ANÔNIMA ----------------------------------
+
+function checkSeason(month) {
+
+  let seasonOfTheYear = '';
+
+  switch (month) {
+      case 'January':
+      case 'February':
+      case 'March':
+          seasonOfTheYear = 'Summer';
+          break;
+      case 'April':
+      case 'May':
+      case 'June':
+          seasonOfTheYear = 'Fall';
+          break;
+      case 'July':
+      case 'August':
+      case 'September':
+          seasonOfTheYear = 'Winter';
+          break;
+      case 'October':
+      case 'November':
+      case 'December':
+          seasonOfTheYear = 'Spring';
+  } return `In the month of ${month}, the season of the year is ${seasonOfTheYear}.`;
+}
+
+console.log(checkSeason('January'));  // Summer
+
+// =======================================================================
+
+/* 🚀 Practice Exercise - Crie um algoritmo que receba um dia da semana aleatório e verifique se é um dia de semana ou final de semana. Imprima uma mensagem específica de acordo com o dia.*/
+
+// FUNÇÃO ANÔNIMA ---------------------------------- to be continued!!!
 
 const checkDays = function (day) {
 
