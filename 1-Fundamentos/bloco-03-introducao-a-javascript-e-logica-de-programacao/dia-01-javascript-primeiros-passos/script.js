@@ -41,3 +41,22 @@ console.log(findRectanglePerimeter(5, 8));
 // ===================================================================================
 
 /* 🚀 Practice Exercise - Crie uma função chamada “currentHour”, que receba um número entre 4 e 24 de sua escolha, para representar as horas do dia, e imprima uma mensagem específica de acordo com as horas do dia.*/
+
+const currentHour = function (hour) {
+  let message = '';  
+
+  if (hour >= 4 && hour <= 24) {
+    if (hour >= 22) {
+      return message = "Não deveríamos comer nada, é hora de dormiir";
+    } if (hour >= 18 && hour <= 22) {
+      return message = "Rango da noite, vamos jantar :D";
+    } if (hour >= 14 && hour < 18) {
+      return message = "Vamos fazer um bolo pro café da tarde?";
+    } if (hour >= 11 && hour < 14) {
+      return message = "Hora do almoço!!!";
+    } if (hour >= 4 && hour < 11) {
+      return message = "Hmmm, cheiro de café recém-passado!!!";
+    }
+  } return "Por favor, digite um número entre 4 e 24 de sua escolha.";
+}
+console.log(currentHour(14));
