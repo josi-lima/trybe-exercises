@@ -94,7 +94,6 @@ function checkSeason(month) {
           seasonOfTheYear = 'Spring';
   } return `In the month of ${month}, the season of the year is ${seasonOfTheYear}.`;
 }
-
 console.log(checkSeason('January'));  // Summer
 
 // =======================================================================

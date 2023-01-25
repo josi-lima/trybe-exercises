@@ -1,4 +1,4 @@
-// ======= *** FUNCTIONS *** =============================================
+// =============== *** FUNCTIONS *** =============================================
 
 // =============== 💡 Academia de Lógica - 3.1 JavaScript: Primeiros passos  ========================
 
@@ -98,6 +98,16 @@ Escreva um algoritmo que imprima no terminal uma string com todos os números in
 
 Use a seguinte estrutura na impressão: "x, y, z, ...n" */
 
+// FUNÇÃO ANÔNIMA ---------------------------------- to be fixed!!!
+
+const findOddNumbers = function () {
+  let oddNumbers = ' ';
+
+  for (let index = 1; index <= 50; index += 2) {
+    oddNumbers = index; 
+  } return oddNumbers;
+}
+console.log(findOddNumbers());
 // =================================================================
 
 /* 🚀 Practice Exercise (Academia de Lógica) - 3. Encontre os números divisíveis por 3
