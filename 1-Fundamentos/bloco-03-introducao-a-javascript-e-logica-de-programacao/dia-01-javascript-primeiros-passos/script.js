@@ -100,7 +100,7 @@ console.log(checkSeason('January'));  // Summer
 
 /* 🚀 Practice Exercise - Crie um algoritmo que receba um dia da semana aleatório e verifique se é um dia de semana ou final de semana. Imprima uma mensagem específica de acordo com o dia.*/
 
-// FUNÇÃO ANÔNIMA ---------------------------------- to be continued!!!
+// FUNÇÃO ANÔNIMA ----------------------------------
 
 const checkDays = function (day) {
 
@@ -112,4 +112,6 @@ const checkDays = function (day) {
     } return `Today is ${day}! Oh, no! You gotta study!`  
   }
 }
-console.log(checkDays('Monday'));
+console.log(checkDays('Saturday'));
+
+// =====================================================================

@@ -36,7 +36,6 @@ weight: Em (kg) com número maior que 0
 height: Em (cm) com número maior que 0
 
 A fórmula para homens: (altura em centímetros x 6,25) + (peso em quilogramas x 9,99) – (idade x 4,92) + 5
-
 A fórmula para mulheres: (altura em centímetros x 6,25) + (peso em quilogramas x 9,99) – (idade x 4,92) – 161
 
 Imprima no terminal o resultado do cálculo no formato: "A taxa metabólica basal é: x Kcal" */
