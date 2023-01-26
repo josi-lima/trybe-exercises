@@ -27,10 +27,10 @@
 
 🟦 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
 <br>✅ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
-<br>⬜ 3.2 - <em>JavaScript - Array e loop For</em>
-<br>⬜ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
-<br>⬜ 3.4 - <em>JavaScript - Objetos e funções</em>
-<br>⬜ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
+<br>✅ 3.2 - <em>JavaScript - Array e loop For</em>
+<br>✅ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
+<br>✅ 3.4 - <em>JavaScript - Objetos e funções</em>
+<br>✅ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
 <br>⬜ 3.6 - <em>Projeto - Playground Functions</em>  
 
 🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
