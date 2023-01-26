@@ -34,10 +34,10 @@
 <br>⬜ 3.6 - <em>Projeto - Playground Functions</em>  
 
 🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
-<br>⬜ 4.1 - <em>JavaScript - DOM e seletores</em>
-<br>⬜ 4.2 - <em>JavaScript - Trabalhando com elementos</em>
-<br>⬜ 4.3 - <em>JavaScript - Eventos</em>
-<br>⬜ 4.4 - <em>JavaScript - Web Storage</em>
+<br>⬜ 4.1 - JavaScript - DOM e seletores
+<br>⬜ 4.2 - JavaScript - Trabalhando com elementos
+<br>⬜ 4.3 - JavaScript - Eventos
+<br>⬜ 4.4 - JavaScript - Web Storage
 <br>⬜ 4.5 - JavaScript Projects
 <br>⬜ 4.5 - Projeto - Arte com Pixels
 <br>⬜ 4.6 - (Bônus) Projeto - Lista de tarefas
