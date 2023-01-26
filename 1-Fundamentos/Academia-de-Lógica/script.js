@@ -49,13 +49,13 @@ const checkTMB = function (age, sex, weight, height) {
   
   if (age > 0 && weight > 0 && height > 0) {
     if (sex === 'F') {
-      return `${calculation - 161}`;
+      return `A taxa metabólica basal é: ${calculation - 161} kcal.`;
     } else if (sex === 'M') {
-      return `${calculation + 5}`;
+      return `A taxa metabólica basal é: ${calculation + 5} kcal.`;
     }
-  } // console.log('Please, insert valid information.');
+  } return 'Por favor, digite dados válidos.';
 }
-console.log(`A taxa metabólica basal é: ${checkTMB(37, 'F', 58.5, 167)} kcal.`);
+console.log(checkTMB(37, 'F', 58.5, 167));
 
 // =================================================================
 

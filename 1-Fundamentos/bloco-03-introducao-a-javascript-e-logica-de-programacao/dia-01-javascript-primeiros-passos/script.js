@@ -107,6 +107,9 @@ const checkDays = function (day) {
   const daysOfTheWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 
   for (let index = 0; index < daysOfTheWeek.length; index += 1) {
-    
+    if (day === 'Saturday' & day === 'Sunday') {
+      return `Today is ${day}! That's the weekend!! Uhhh`;
+    } return `Today is ${day}! Oh, no! You gotta study!`  
   }
 }
+console.log(checkDays('Monday'));

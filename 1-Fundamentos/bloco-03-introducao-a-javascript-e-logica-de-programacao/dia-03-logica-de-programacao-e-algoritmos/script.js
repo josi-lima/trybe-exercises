@@ -11,6 +11,23 @@ const sumNumbers = function(n) {
     sum += index;
   } return sum;
 }
-console.log(`A soma total de 1 a 50 é ${sumNumbers(50)}.`);
+console.log(`A soma total de 1 a 50 é ${sumNumbers(100)}.`);
 
-// ARROW FUNCTION - -------------------------------- to be continued!!!
+// =======================================================================
+
+/* 🚀 Practice Exercise - Bonus: Crie um algoritmo que...*/
+
+// ---------------------------------- to be continued!!!
+
+const n = 9;
+
+let resultado = 100;
+for (let index = 0; index <= n; index += 1) {
+  resultado -= index;
+};
+console.log(resultado);
+
+// ===================================================================================
+
+
+
