@@ -19,7 +19,7 @@ const checkApproval = function (score) {
     return "Infelizmente, sua nota foi zero.";
   }
 };
-console.log(checkApproval(68));  // Você está em nossa lista de espera!
+console.log(checkApproval(68)); // Você está em nossa lista de espera!
 
 // ===================================================================================
 
@@ -28,7 +28,7 @@ console.log(checkApproval(68));  // Você está em nossa lista de espera!
 // ARROW FUNCTION - one line ---------------------------
 
 const findRectangleArea = (base, height) => base * height;
-console.log(findRectangleArea(5, 8));  // 40
+console.log(findRectangleArea(5, 8)); // 40
 
 // FUNÇÃO ANÔNIMA ----------------------------------
 
@@ -36,30 +36,35 @@ const findRectanglePerimeter = function (base, height) {
   const perimeter = (base + height) * 2;
   return perimeter;
 };
-console.log(findRectanglePerimeter(5, 8));  // 26
+console.log(findRectanglePerimeter(5, 8)); // 26
 
 // ===================================================================================
 
 /* 🚀 Practice Exercise - Crie uma função dinâmica chamada “currentHour”, que receba um número aleatório entre 4 e 24 de sua escolha, para representar as horas do dia, e imprima uma mensagem específica de acordo com as horas do dia.*/
 
 const currentHour = function (hour) {
-  let message = '';  
+  let message = "";
 
   if (hour >= 4 && hour <= 24) {
     if (hour >= 22) {
-      return message = "Não deveríamos comer nada, é hora de dormiir";
-    } if (hour >= 18 && hour <= 22) {
-      return message = "Rango da noite, vamos jantar :D";
-    } if (hour >= 14 && hour < 18) {
-      return message = "Vamos fazer um bolo pro café da tarde?";
-    } if (hour >= 11 && hour < 14) {
-      return message = "Hora do almoço!!!";
-    } if (hour >= 4 && hour < 11) {
-      return message = "Hmmm, cheiro de café recém-passado!!!";
+      return (message = "Não deveríamos comer nada, é hora de dormiir");
     }
-  } return "Por favor, digite um número entre 4 e 24 de sua escolha.";
-}
-console.log(currentHour(14));  // Vamos fazer um bolo pro café da tarde?
+    if (hour >= 18 && hour <= 22) {
+      return (message = "Rango da noite, vamos jantar :D");
+    }
+    if (hour >= 14 && hour < 18) {
+      return (message = "Vamos fazer um bolo pro café da tarde?");
+    }
+    if (hour >= 11 && hour < 14) {
+      return (message = "Hora do almoço!!!");
+    }
+    if (hour >= 4 && hour < 11) {
+      return (message = "Hmmm, cheiro de café recém-passado!!!");
+    }
+  }
+  return "Por favor, digite um número entre 4 e 24 de sua escolha.";
+};
+console.log(currentHour(14)); // Vamos fazer um bolo pro café da tarde?
 
 // ===================================================================================
 
@@ -69,32 +74,32 @@ console.log(currentHour(14));  // Vamos fazer um bolo pro café da tarde?
 // FUNÇÃO ANÔNIMA ----------------------------------
 
 function checkSeason(month) {
-
-  let seasonOfTheYear = '';
+  let seasonOfTheYear = "";
 
   switch (month) {
-      case 'January':
-      case 'February':
-      case 'March':
-          seasonOfTheYear = 'Summer';
-          break;
-      case 'April':
-      case 'May':
-      case 'June':
-          seasonOfTheYear = 'Fall';
-          break;
-      case 'July':
-      case 'August':
-      case 'September':
-          seasonOfTheYear = 'Winter';
-          break;
-      case 'October':
-      case 'November':
-      case 'December':
-          seasonOfTheYear = 'Spring';
-  } return `In the month of ${month}, the season of the year is ${seasonOfTheYear}.`;
+    case "January":
+    case "February":
+    case "March":
+      seasonOfTheYear = "Summer";
+      break;
+    case "April":
+    case "May":
+    case "June":
+      seasonOfTheYear = "Fall";
+      break;
+    case "July":
+    case "August":
+    case "September":
+      seasonOfTheYear = "Winter";
+      break;
+    case "October":
+    case "November":
+    case "December":
+      seasonOfTheYear = "Spring";
+  }
+  return `In the month of ${month}, the season of the year is ${seasonOfTheYear}.`;
 }
-console.log(checkSeason('January'));  // Summer
+console.log(checkSeason("January")); // Summer
 
 // =======================================================================
 
@@ -103,15 +108,29 @@ console.log(checkSeason('January'));  // Summer
 // FUNÇÃO ANÔNIMA ----------------------------------
 
 const checkDays = function (day) {
-
-  const daysOfTheWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+  const daysOfTheWeek = [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+  ];
 
   for (let index = 0; index < daysOfTheWeek.length; index += 1) {
-    if (day === 'Saturday' & day === 'Sunday') {
+    if ((day === "Saturday") & (day === "Sunday")) {
       return `Today is ${day}! That's the weekend!! Uhhh`;
-    } return `Today is ${day}! Oh, no! You gotta study!`  
+    }
+    return `Today is ${day}! Oh, no! You gotta study!`;
   }
-}
-console.log(checkDays('Saturday'));
+};
+console.log(checkDays("Saturday"));
 
 // =====================================================================
+
+const object = { a: 1, b: 2, c: 3 };
+
+for (const property in object) {
+  console.log(property + ' = ' + object[property]);
+}
