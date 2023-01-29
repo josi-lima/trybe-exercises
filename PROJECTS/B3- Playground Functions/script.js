@@ -2,7 +2,7 @@
 function compareTrue(arg1, arg2) {
   return arg1 && arg2 ? 'true' : 'false';
 }
-console.log(compareTrue(true, true));
+console.log(compareTrue(true, true));  // true
 
 // =================================================================
 
@@ -10,7 +10,7 @@ console.log(compareTrue(true, true));
 function splitSentence(phrase) {
   return phrase.split(' ');
 }
-console.log(splitSentence('you gotta leave'));
+console.log(splitSentence('you gotta leave'));  // ['you', 'gotta', 'leave']
 // =================================================================
 
 // 💡 Desafio 3
@@ -19,7 +19,7 @@ function concatName(names) {
   const firstItem = names[0];
   return `${lastItem}, ${firstItem}`;
 }
-console.log(concatName(['My Mom', 'My Dad', 'Frida Kahlo', 'Anne Frank', 'Florbela Espanca']));
+console.log(concatName(['My Mom', 'My Dad', 'Frida Kahlo', 'Anne Frank', 'Florbela Espanca']));  // Florbela Espanca, My Mom
 
 // =================================================================
 
@@ -28,7 +28,7 @@ function footballPoints(wins, ties) {
   let gamesResult = wins * 3 + ties;
   return gamesResult;
 }
-console.log(footballPoints(3, 3));
+console.log(footballPoints(3, 3));  // 12
 
 // =================================================================
 
@@ -46,7 +46,7 @@ function highestCount(param) {
   }
   return count;
 }
-console.log(highestCount([2, 8, 7, 5, 8]));
+console.log(highestCount([2, 8, 7, 5, 8]));  // 2
 
 // =================================================================
 
@@ -76,7 +76,7 @@ function catAndMouse(mouse, cat1, cat2) {
     return 'cat2';
   } return 'os gatos trombam e o rato foge';
 }
-console.log(catAndMouse(5, 4, 2));
+console.log(catAndMouse(5, 4, 2));  // cat1
 
 // =================================================================
 
@@ -90,7 +90,7 @@ function fizzBuzz(numbers) {
     return 'bug!';
   }); return message;
 }
-console.log(fizzBuzz([2, 15, 7, 9, 45]));
+console.log(fizzBuzz([2, 15, 7, 9, 45]));  // ['bug!', 'fizzBuzz', 'bug!', 'fizz', 'fizzBuzz']
 
 // =================================================================
 
@@ -117,7 +117,18 @@ function techList(techs, names) {
   }
   return result;
 }
-
+console.table(techList(['React', 'Jest', 'HTML', 'Jest', 'CSS', 'JavaScript'], 'Josie'));
+/*
+┌─────────┬──────────────┬─────────┐
+│ (index) │     tech     │  name   │
+├─────────┼──────────────┼─────────┤
+│    0    │    'CSS'     │ 'Josie' │
+│    1    │    'HTML'    │ 'Josie' │
+│    2    │ 'JavaScript' │ 'Josie' │
+│    3    │    'Jest'    │ 'Josie' │
+│    4    │    'Jest'    │ 'Josie' │
+│    5    │   'React'    │ 'Josie' │
+└─────────┴──────────────┴─────────┘ */
 // =================================================================
 
 // 🌱 Desafio 11
