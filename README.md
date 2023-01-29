@@ -23,7 +23,7 @@
 <br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
 <br>✅ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
 <br>✅ 2.4 - <em>HTML Semântico</em>
-<br>✅ 2.5 - _[Projeto HTML e CSS - Lessons Learned](https://josi-lima.github.io/lessons-learned/)_
+<br>✅ 2.5 - _[Projeto - Lessons Learned](https://josi-lima.github.io/lessons-learned/)_
 
 🟦 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
 <br>✅ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
