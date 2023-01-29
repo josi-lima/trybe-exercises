@@ -13,25 +13,25 @@
 ## _[Fundamentos de Desenvolvimento Web](https://github.com/josi-lima/trybe-exercises/tree/main/1-Fundamentos)_ ⏳
 
 🟦 <strong>Bloco 1: Unix, Shell & Git</strong>
-<br>✅ 1.1 - <em>Unix & Bash - Parte 1</em>
-<br>✅ 1.2 - <em>Unix & Bash - Parte 2</em>
-<br>✅ 1.3 - <em>Git & GitHub  - O que é e para que serve</em>
-<br>✅ 1.4 - <em>Git & GitHub - Entendendo os comandos</em>
+<br>✅ 1.1 - _Unix & Bash - Parte 1_
+<br>✅ 1.2 - _Unix & Bash - Parte 2_
+<br>✅ 1.3 - _Git & GitHub  - O que é e para que serve_
+<br>✅ 1.4 - _Git & GitHub - Entendendo os comandos_
 
 🟦 <strong>Bloco 2: Introdução à HTML & CSS</strong>
-<br>✅ 2.1 - <em>HTML & CSS - Estruturas de página</em>
-<br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
-<br>✅ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
-<br>✅ 2.4 - <em>HTML Semântico</em>
+<br>✅ 2.1 - _HTML & CSS - Estruturas de página_
+<br>✅ 2.2 - _HTML & CSS - Primeiros passos em CSS_
+<br>✅ 2.3 - _HTML & CSS - Seletores e posicionamento_
+<br>✅ 2.4 - _HTML Semântico_
 <br>✅ 2.5 - _[Projeto - Lessons Learned](https://josi-lima.github.io/lessons-learned/)_ ☀️
 
 🟦 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
-<br>✅ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
-<br>✅ 3.2 - <em>JavaScript - Array e loop For</em>
-<br>✅ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
-<br>✅ 3.4 - <em>JavaScript - Objetos e funções</em>
-<br>✅ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
-<br>✅ 3.6 - <em>Projeto - Playground Functions</em>  
+<br>✅ 3.1 - _JavaScript - JavaScript: Primeiros passos_
+<br>✅ 3.2 - _JavaScript - Array e loop For_
+<br>✅ 3.3 - _JavaScript - Lógica de Programação e Algoritmos_
+<br>✅ 3.4 - _JavaScript - Objetos e funções_
+<br>✅ 3.5 - _JavaScript ES6 - let, const, arrow functions e template literals_
+<br>✅ 3.6 - _[Projeto - Playground Functions](https://github.com/josi-lima/trybe-exercises/blob/main/PROJECTS/B3-%20Playground%20Functions/script.js)_ 
 
 🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>⬜ 4.1 - JavaScript - DOM e seletores
