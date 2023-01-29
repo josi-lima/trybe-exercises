@@ -31,7 +31,7 @@
 <br>✅ 3.3 - _JavaScript - Lógica de Programação e Algoritmos_
 <br>✅ 3.4 - _JavaScript - Objetos e funções_
 <br>✅ 3.5 - _JavaScript ES6 - let, const, arrow functions e template literals_
-<br>✅ 3.6 - _[Projeto - Playground Functions](https://github.com/josi-lima/trybe-exercises/blob/main/PROJECTS/B3-%20Playground%20Functions/script.js)_ 
+<br>✅ 3.6 - _[Projeto - Playground Functions](https://github.com/josi-lima/trybe-exercises/blob/main/PROJECTS/B3-%20Playground%20Functions/script.js)_ 🛝
 
 🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>⬜ 4.1 - JavaScript - DOM e seletores
