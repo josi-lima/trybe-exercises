@@ -23,7 +23,7 @@
 <br>✅ 2.2 - <em>HTML & CSS - Primeiros passos em CSS</em>
 <br>✅ 2.3 - <em>HTML & CSS - Seletores e posicionamento</em>
 <br>✅ 2.4 - <em>HTML Semântico</em>
-<br>✅ 2.5 - <em>Projeto HTML e CSS - Lessons Learned</em>
+<br>✅ 2.5 - _[Projeto HTML e CSS - Lessons Learned](https://josi-lima.github.io/lessons-learned/)_
 
 🟦 <strong>Bloco 3: Introdução à JavaScript e Lógica de Programação</strong>
 <br>✅ 3.1 - <em>JavaScript - JavaScript: Primeiros passos</em>
@@ -31,7 +31,7 @@
 <br>✅ 3.3 - <em>JavaScript - Lógica de Programação e Algoritmos</em>
 <br>✅ 3.4 - <em>JavaScript - Objetos e funções</em>
 <br>✅ 3.5 - <em>JavaScript ES6 - let, const, arrow functions e template literals</em>
-<br>⬜ 3.6 - <em>Projeto - Playground Functions</em>  
+<br>✅ 3.6 - <em>Projeto - Playground Functions</em>  
 
 🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>⬜ 4.1 - JavaScript - DOM e seletores
