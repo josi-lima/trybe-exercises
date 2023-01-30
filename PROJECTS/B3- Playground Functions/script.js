@@ -43,8 +43,7 @@ function highestCount(nums) {
     } else if (nums[index] === maxNumber) {
       counter += 1;
     }
-  }
-  return counter;
+  } return counter;
 }
 console.log(highestCount([2, 8, 7, 5, 8]));  // 2
 
@@ -101,14 +100,14 @@ function encode(string) {
   string = string.replace(/[aeiou]/g, m => chars[m]);
   return string;
 }
-console.log(encode('hi there!'));
+console.log(encode('hi there!'));  // h3 th2r2!
 
 function decode(string) {
   const chars = { 1: 'a', 2: 'e', 3: 'i', 4: 'o', 5: 'u' };
   string = string.replace(/[12345]/g, m => chars[m]);
   return string;
 }
-console.log(decode('h3 th2r2!'));
+console.log(decode('h3 th2r2!'));  // hi there!
 
 // =================================================================
 
