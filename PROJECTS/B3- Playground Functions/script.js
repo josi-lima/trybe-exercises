@@ -109,6 +109,8 @@ function decode(string) {
 }
 console.log(decode('h3 th2r2!'));  // hi there!
 
+// Reference: https://stackoverflow.com/questions/16576983/replace-multiple-characters-in-one-replace-call
+
 // =================================================================
 
 // Desafio 10
