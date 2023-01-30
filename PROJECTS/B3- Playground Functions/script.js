@@ -33,18 +33,18 @@ console.log(footballPoints(3, 3));  // 12
 // =================================================================
 
 // 💡 Desafio 5
-function highestCount(param) {
-  let maxNumber = param[0];
-  let count = 0;
-  for (let index = 0; index < param.length; index += 1) {
-    if (param[index] !== maxNumber && param[index] > maxNumber) {
-      maxNumber = param[index];
-      count = 1;
-    } else if (param[index] === maxNumber) {
-      count += 1;
+function highestCount(nums) {
+  let maxNumber = nums[0];
+  let counter = 0;
+  for (let index in nums) {
+    if (nums[index] !== maxNumber && nums[index] > maxNumber) {
+      maxNumber = nums[index];
+      counter = 1;
+    } else if (nums[index] === maxNumber) {
+      counter += 1;
     }
   }
-  return count;
+  return counter;
 }
 console.log(highestCount([2, 8, 7, 5, 8]));  // 2
 
@@ -96,13 +96,58 @@ console.log(fizzBuzz([2, 15, 7, 9, 45]));  // ['bug!', 'fizzBuzz', 'bug!', 'fizz
 
 // 💡 Desafio 9
 function encode(string) {
-// seu código aqui
+  let result = [];
+  for (let index = 0; index < string.length; index += 1) {
+    switch (string[index]) {
+    case 'a':
+      result += 1;
+      break;
+    case 'e':
+      result += 2;
+      break;
+    case 'i':
+      result += 3;
+      break;
+    case 'o':
+      result += 4;
+      break;
+    case 'u':
+      result += 5;
+      break;
+    default:
+      result += string[index];
+      break;
+    }
+  }
+  return result;
 }
 
 function decode(string) {
-// seu código aqui
+  let result = [];
+  for (let index = 0; index < string.length; index += 1) {
+    switch (string[index]) {
+    case '1':
+      result += 'a';
+      break;
+    case '2':
+      result += 'e';
+      break;
+    case '3':
+      result += 'i';
+      break;
+    case '4':
+      result += 'o';
+      break;
+    case '5':
+      result += 'u';
+      break;
+    default:
+      result += string[index];
+      break;
+    }
+  }
+  return result;
 }
-
 // =================================================================
 
 // Desafio 10
