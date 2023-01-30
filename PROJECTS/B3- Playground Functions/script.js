@@ -51,17 +51,26 @@ console.log(highestCount([2, 8, 7, 5, 8]));  // 2
 
 // 🚀 Desafio 6
 
-function calcTriangleArea(base1, height1) {
-// seu código aqui
+function calcTriangleArea(base, height) {
+  return (base * height) / 2;
 }
+console.log(calcTriangleArea(10, 15));
 
-function calcRectangleArea(base2, height2) {
-// seu código aqui
+function calcRectangleArea(base, height) {
+  return base * height;
 }
+console.log(calcRectangleArea(10, 15));
 
-function calcAllAreas(base3, height3, form) {
-// seu código aqui
+function calcAllAreas(base, height, form) {
+  if (form === 'triangle') {
+    return `O valor da área do triângulo é de: ${(base* height) / 2}.`;
+  } else if (form === 'rectangle') {
+    return `O valor da área do retângulo é de: ${base * height}.`;
+  } else {
+    return 'Não foi possível fazer o cálculo, insira uma forma geométrica válida.'
+  } 
 }
+console.log(calcAllAreas(10, 15, 'triangle'));
 
 // =================================================================
 
