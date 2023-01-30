@@ -1,30 +1,25 @@
 // 💡 Desafio 1
-function compareTrue(arg1, arg2) {
-  return arg1 && arg2 ? 'true' : 'false';
-}
+const compareTrue = (arg1, arg2) => arg1 && arg2 ? 'true' : 'false';
 console.log(compareTrue(true, true));  // true
 
 // =================================================================
 
 // 🚀 Desafio 2
-function splitSentence(phrase) {
-  return phrase.split(' ');
-}
+const splitSentence = phrase => phrase.split(' ');
 console.log(splitSentence('you gotta leave'));  // ['you', 'gotta', 'leave']
+
 // =================================================================
 
 // 💡 Desafio 3
-function concatName(names) {
-  const lastItem = names.at(-1);
-  const firstItem = names[0];
-  return `${lastItem}, ${firstItem}`;
+const concatName = (names) => {
+  return names.at(-1), names[0];
 }
 console.log(concatName(['My Mom', 'My Dad', 'Frida Kahlo', 'Anne Frank', 'Florbela Espanca']));  // Florbela Espanca, My Mom
 
 // =================================================================
 
 // 🚀 Desafio 4
-function footballPoints(wins, ties) {
+const footballPoints = function (wins, ties) {
   let gamesResult = wins * 3 + ties;
   return gamesResult;
 }
@@ -33,7 +28,7 @@ console.log(footballPoints(3, 3));  // 12
 // =================================================================
 
 // 💡 Desafio 5
-function highestCount(nums) {
+const highestCount = function (nums) {
   let maxNumber = nums[0];
   let counter = 0;
   for (let index in nums) {
@@ -51,31 +46,25 @@ console.log(highestCount([2, 8, 7, 5, 8]));  // 2
 
 // 🚀 Desafio 6
 
-function calcTriangleArea(base, height) {
-  return (base * height) / 2;
-}
+const calcTriangleArea = (base, height) => (base * height) / 2;
 console.log(calcTriangleArea(10, 15));
 
-function calcRectangleArea(base, height) {
-  return base * height;
-}
+const calcRectangleArea = (base, height) => base * height;
 console.log(calcRectangleArea(10, 15));
 
-function calcAllAreas(base, height, form) {
+const calcAllAreas = (base, height, form) => {
   if (form === 'triangle') {
-    return `O valor da área do triângulo é de: ${(base* height) / 2}.`;
-  } else if (form === 'rectangle') {
+    return `O valor da área do triângulo é de: ${(base * height) / 2}.`;
+  } if (form === 'rectangle') {
     return `O valor da área do retângulo é de: ${base * height}.`;
-  } else {
-    return 'Não foi possível fazer o cálculo, insira uma forma geométrica válida.'
-  } 
+  } return 'Não foi possível fazer o cálculo, insira uma forma geométrica válida.';
 }
 console.log(calcAllAreas(10, 15, 'triangle'));
 
 // =================================================================
 
 // 💡 Desafio 7
-function catAndMouse(mouse, cat1, cat2) {
+const catAndMouse = function (mouse, cat1, cat2) {
   let distanceCat1 = Math.abs(mouse - cat1);
   let distanceCat2 = Math.abs(mouse - cat2);
   if (distanceCat1 < distanceCat2) {
@@ -90,7 +79,7 @@ console.log(catAndMouse(5, 4, 2));  // cat1
 
 // 🚀 Desafio 8
 
-function fizzBuzz(numbers) {
+const fizzBuzz = function (numbers) {
   const message = numbers.map((num) => {
     if (num % 3 === 0 && num % 5 === 0) return 'fizzBuzz';
     if (num % 3 === 0) return 'fizz';
@@ -104,14 +93,14 @@ console.log(fizzBuzz([2, 15, 7, 9, 45]));  // ['bug!', 'fizzBuzz', 'bug!', 'fizz
 
 // 💡 Desafio 9
 
-function encode(string) {
+const encode = function (string) {
   const chars = { a: 1, e: 2, i: 3, o: 4, u: 5 };
   string = string.replace(/[aeiou]/g, m => chars[m]);
   return string;
 }
 console.log(encode('hi there!'));  // h3 th2r2!
 
-function decode(string) {
+const decode = function (string) {
   const chars = { 1: 'a', 2: 'e', 3: 'i', 4: 'o', 5: 'u' };
   string = string.replace(/[12345]/g, m => chars[m]);
   return string;
@@ -123,7 +112,7 @@ console.log(decode('h3 th2r2!'));  // hi there!
 // =================================================================
 
 // Desafio 10
-function techList(techs, names) {
+const techList = function (techs, names) {
   techs.sort();
   let result = [];
   if (techs.length === 0) {
