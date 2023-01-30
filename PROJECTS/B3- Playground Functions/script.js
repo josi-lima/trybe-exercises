@@ -95,59 +95,21 @@ console.log(fizzBuzz([2, 15, 7, 9, 45]));  // ['bug!', 'fizzBuzz', 'bug!', 'fizz
 // =================================================================
 
 // 💡 Desafio 9
+
 function encode(string) {
-  let result = [];
-  for (let index = 0; index < string.length; index += 1) {
-    switch (string[index]) {
-    case 'a':
-      result += 1;
-      break;
-    case 'e':
-      result += 2;
-      break;
-    case 'i':
-      result += 3;
-      break;
-    case 'o':
-      result += 4;
-      break;
-    case 'u':
-      result += 5;
-      break;
-    default:
-      result += string[index];
-      break;
-    }
-  }
-  return result;
+  const chars = { a: 1, e: 2, i: 3, o: 4, u: 5 };
+  string = string.replace(/[aeiou]/g, m => chars[m]);
+  return string;
 }
+console.log(encode('hi there!'));
 
 function decode(string) {
-  let result = [];
-  for (let index = 0; index < string.length; index += 1) {
-    switch (string[index]) {
-    case '1':
-      result += 'a';
-      break;
-    case '2':
-      result += 'e';
-      break;
-    case '3':
-      result += 'i';
-      break;
-    case '4':
-      result += 'o';
-      break;
-    case '5':
-      result += 'u';
-      break;
-    default:
-      result += string[index];
-      break;
-    }
-  }
-  return result;
+  const chars = { 1: 'a', 2: 'e', 3: 'i', 4: 'o', 5: 'u' };
+  string = string.replace(/[12345]/g, m => chars[m]);
+  return string;
 }
+console.log(decode('h3 th2r2!'));
+
 // =================================================================
 
 // Desafio 10
