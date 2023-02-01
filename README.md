@@ -34,8 +34,8 @@
 <br>✅ 3.6 - _[Projeto - Playground Functions](https://github.com/josi-lima/trybe-exercises/blob/main/PROJECTS/B3-%20Playground%20Functions/script.js)_ 🛝
 
 🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
-<br>⬜ 4.1 - JavaScript - DOM e seletores
-<br>⬜ 4.2 - JavaScript - Trabalhando com elementos
+<br>✅ 4.1 - _JavaScript - DOM e seletores_
+<br>✅ 4.2 - _JavaScript - Trabalhando com elementos_
 <br>⬜ 4.3 - JavaScript - Eventos
 <br>⬜ 4.4 - JavaScript - Web Storage
 <br>⬜ 4.5 - JavaScript Projects
