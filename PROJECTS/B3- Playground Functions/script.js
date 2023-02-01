@@ -52,10 +52,10 @@ console.log(highestCount([2, 8, 7, 5, 8]));  // 2
 // 💡 Desafio 6 - Crie as funções calcTriangleArea, calcRectangleArea e calcAllAreas -----------------
 
 const calcTriangleArea = (base, height) => (base * height) / 2;
-console.log(calcTriangleArea(10, 15));
+console.log(calcTriangleArea(10, 15));  // 75
 
 const calcRectangleArea = (base, height) => base * height;
-console.log(calcRectangleArea(10, 15));
+console.log(calcRectangleArea(10, 15));  // 150
 
 const calcAllAreas = (base, height, form) => {
   if (form === 'triângulo') {
@@ -64,7 +64,7 @@ const calcAllAreas = (base, height, form) => {
     return `O valor da área do retângulo é de: ${calcRectangleArea(base, height)}`;
   } return 'Não foi possível fazer o cálculo, insira uma forma geométrica válida.';
 }
-console.log(calcAllAreas(10, 15, 'triângulo'));
+console.log(calcAllAreas(10, 15, 'triângulo'));  // O valor da área do triângulo é de: 75
 
 // =================================================================
 
@@ -176,7 +176,7 @@ const triangleCheck = (a, b, c) => {
   if ((c > Math.abs(a + b))) return false;
   return true;
 };
-console.log(triangleCheck(150, 40, 60));
+console.log(triangleCheck(150, 40, 60));  // false
 
 // =================================================================
 
@@ -196,7 +196,7 @@ const hydrate = function (drinks) {
     return `${result} copo de água`;
   }
 };
-console.log(hydrate('1 cerveja, 2 vinhos, 4 batidas'));
+console.log(hydrate('1 cerveja, 2 vinhos, 4 batidas'));  // 7 copos de água
 
 
 // =================================================================
