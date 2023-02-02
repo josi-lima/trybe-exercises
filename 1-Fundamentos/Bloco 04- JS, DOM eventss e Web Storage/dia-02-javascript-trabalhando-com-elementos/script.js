@@ -13,8 +13,8 @@ function findElement(){
 // 2. Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
 
 function addColor(){
-    const fatherElement = elementoOndeVoceEsta.parentElement;
-    fatherElement.style.color = '#fff';
+    const pai = elementoOndeVoceEsta.parentElement;
+    pai.style.color = '#fff';
 }
    
 
