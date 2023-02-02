@@ -51,14 +51,14 @@ function changeToCapitalLetter(){
 changeToCapitalLetter();
 
 
-//6. Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.
+//6. Crie e execute uma função que exiba o conteúdo de todas as tags <p> da seção principal (center-content) dentro do parágrafo do rodapé, separados por espaços. Exemplo: Texto do parágrafo 1 Texto do parágrafo 2 Texto do parágrafo 3.
 
-function showParagraph(){
-    let paragraphs = document.getElementsByTagName('p');
-    for (let index = 0; index < paragraphs.length; index += 1) {
-        console.log(paragraphs[index].innerHTML);
-    }
-}
-showParagraph();
+// function showParagraph(){
+//     let paragraphs = document.getElementsByTagName('p');
+//     for (let index = 0; index < paragraphs.length; index += 1) {
+//         console.log(paragraphs[index].innerHTML);
+//     }
+// }
+// showParagraph();
 
   
