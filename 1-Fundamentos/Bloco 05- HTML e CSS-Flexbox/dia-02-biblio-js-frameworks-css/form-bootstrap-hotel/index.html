@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css"/>
+    <title>Hotel Trybe</title>
+  </head>
+
+  <body>
+    <!-- Header of the page -->
+    <header class="header-trybe">
+      <h1 class="title">Trybe Hotel</h1>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3q0v72AJA-p9V_oPst_65uEG9dr1WxKN-ZYp_5gE&s"
+        alt="logo da escola de tecnologia Trybe"
+      />
+    </header>
+
+    <!-- Main of the page -->
+    <main>
+
+      <!-- Form of the hotel trybe -->
+      <form action="#" method="POST" class="form-control">
+
+        <!-- Uma section com a classe hotel-form para a reserva do hotel -->
+        <section class="hotel-form">
+          <label for="inputCheckin">Check-in
+            <input type="date" name="date" class="inputCheckin form-control" id="inputCheckin">
+          </label>
+          <label for="inputCheckout">Check-out
+            <input type="date" name="date" class="inputCheckin form-control" id="inputCheckout">
+          </label>
+        </section>
+
+        <!-- Uma section com a classe hotel-form selecionarmos os tipos de quartos -->
+        <section class="hotel-form">
+          <p>Acomodação</p>
+          <label for="acomodacao1">
+            <input type="radio" name="acomodacao" id="acomodacao1" class="bedroom form-check-input option" value="Comum" checked>Comum</input>
+          </label>
+          <label for="acomodacao2" class="form-check-label">
+            <input type="radio" name="acomodacao" id="acomodacao2" class="bedroom form-check-input" value="Club">Club</input>
+          </label>
+          <label for="acomodacao3" class="form-check-label"></label>
+            <input type="radio" name="acomodacao" id="acomodacao" class="bedroom form-check-input" value="Luxo">Luxo</input>
+          </label>
+        </section>
+
+        <!-- Uma section com a classe hotel-form para a quantidade de pessoas -->
+        <section class="hotel-form" class="form-control-lg">
+          <label for="quantidade-pessoas">Número de Hóspedes
+            <select name="drop-down-menu" id="select-qtd-pessoas" class="form-select">
+              <option value="1" class="nPessoas">1</option> 
+              <option value="1" class="nPessoas">2</option> 
+              <option value="1" class="nPessoas">3</option> 
+              <option value="1" class="nPessoas">4</option>
+            </select>
+          </label>
+        </section>
+        
+        <!-- Uma section com a classe hotel-form para observações -->
+        <section class="hotel-form" class="form-control-lg">
+          <label for="observacoes">
+            <textarea name="observacoes" id="observacoes" cols="25" rows="5" class="obs form-control-lg" placeholder="Observações"></textarea>
+          </label>
+        </section>
+
+        <!-- Um botão para enviar o formulário -->
+        <button type="submit" class="btn btn-lg btn-success btn-trybe">Reservar</button>
+
+
+        
+      </form>
+    </main>
+  </body>
+</html>

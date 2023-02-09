@@ -1,0 +1,63 @@
+/* General Settings */
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+body{
+  text-align: center;
+  margin: 3vmax;
+}
+
+/* Title */
+.title {
+  font-size: 3vmax;
+  color: rgb(5, 82, 5);
+}
+
+/* Main */
+main {
+  display: inline-block;
+  border: black solid 1px;
+  padding: 30px;
+}
+
+/* Header */
+.header-trybe {
+  display: block;
+  text-align: center;
+  height: 150px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid;
+}
+
+.header-trybe img {
+  margin-top: 12px;
+  height: 70px;
+}
+
+/* Form */
+.hotel-form {
+  margin: 25px;
+  color: rgb(73, 73, 73);
+  font-size: 25px;
+}
+
+.option {
+  accent-color: rgb(5, 82, 5);
+}
+
+/* Text-area */
+.obs {
+  box-sizing: content-box;
+  padding: 10px;
+  resize: none;
+  width: 500px;
+  height: 100px;
+}
+
+/* Button */
+.btn-trybe {
+  margin-bottom: 1vmax;
+}
+
