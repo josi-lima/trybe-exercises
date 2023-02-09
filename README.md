@@ -36,20 +36,20 @@
 🟦 <strong>Bloco 4: JavaScript: DOM, Eventos e Web Storage</strong>
 <br>✅ 4.1 - _JavaScript - DOM e seletores_
 <br>✅ 4.2 - _JavaScript - Trabalhando com elementos_
-<br>⬜ 4.3 - JavaScript - Eventos
-<br>⬜ 4.4 - JavaScript - Web Storage
-<br>⬜ 4.5 - JavaScript Projects
-<br>⬜ 4.5 - Projeto - Arte com Pixels
+<br>✅ 4.3 - JavaScript - Eventos
+<br>✅ 4.4 - JavaScript - Web Storage
+<br>✅ 4.5 - JavaScript Projects
+<br>✅ 4.5 - Projeto - Arte com Pixels
 <br>⬜ 4.6 - (Bônus) Projeto - Lista de tarefas
 <br>⬜ 4.6 - (Bônus) Projeto - Meme Generator
 <br>⬜ 4.6 - (Bônus) Projeto - Adivinhe a Cor
 <br>⬜ 4.6 - (Bônus) Projeto - Carta Misteriosa
 
 🟦 <strong>Bloco 5: HTML & CSS avançado</strong>
-<br>⬜ 5.1 - HTML & CSS - Forms
-<br>⬜ 5.2 - Bibliotecas JavaScript e Frameworks CSS
-<br>⬜ 5.3 - CSS Flexbox - Parte 1
-<br>⬜ 5.4 - CSS Flexbox - Parte 2
+<br>✅ 5.1 - HTML & CSS - Forms
+<br>✅ 5.2 - Bibliotecas JavaScript e Frameworks CSS
+<br>✅ 5.3 - CSS Flexbox - Parte 1
+<br>✅ 5.4 - CSS Flexbox - Parte 2
 <br>⬜ 5.5 - CSS Responsivo - Mobile First
 <br>⬜ 5.6 - Projeto - Trybewarts
 
