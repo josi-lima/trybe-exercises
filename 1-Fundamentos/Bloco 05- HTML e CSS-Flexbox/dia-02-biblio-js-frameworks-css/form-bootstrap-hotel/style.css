@@ -61,3 +61,27 @@ main {
   margin-bottom: 1vmax;
 }
 
+/* Responsivity */
+
+@media (max-width: 600px) {
+
+  .checkin {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .checkin input {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  .bedroom-types {
+    flex-direction: column;
+  }
+
+  .obs {
+    width: 50%;
+  }
+  
+}
