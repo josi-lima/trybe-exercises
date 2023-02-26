@@ -17,15 +17,11 @@ calcNumbers(10, 5);
 
 const findHighestNumber = (numberA, numberB) => {
 
-  if (numberA > numberB){
-    return numberA;  
-  } else if (numberB > numberA){
-    return numberB; 
-  } else {
-    console.log("Let's try next time!");  
-  }
+  if (numberA > numberB) return numberA;  
+  else if (numberB > numberA) return numberB; 
+  return 'an invalid number'; 
 }
-console.log(`The highest number is ${findHighestNumber(75, 90)}.`);  // 90
+console.log(`The highest number is ${findHighestNumber(0)}.`);  // 90
 
 // ===================================================================================
 
@@ -49,13 +45,9 @@ console.log(`The biggest number is ${findBiggestNumber([75, 90, 8, 127])}.`);  /
 
 const findPositiveNumber = (num) => {
 
-  if(num > 0){
-      return 'positive';
-  } else if(num < 0){
-      return 'negative';
-  } else {
-      return 'zero';
-  }
+  if (num > 0) return 'positive';
+  else if (num < 0) return 'negative';
+  return 'zero';
 }
 console.log(`The number typed is ${findPositiveNumber(-10)}.`); // negative
   
