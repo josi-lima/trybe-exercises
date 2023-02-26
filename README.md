@@ -13,10 +13,9 @@
 ## _[Fundamentos de Desenvolvimento Web](https://github.com/josi-lima/trybe-exercises/tree/main/1-Fundamentos)_ ⏳
 
 🟦 <strong>Bloco 1: Unix, Shell & Git</strong>
-<br>✅ 1.1 - _Unix & Bash - Parte 1_
-<br>✅ 1.2 - _Unix & Bash - Parte 2_
-<br>✅ 1.3 - _Git & GitHub  - O que é e para que serve_
-<br>✅ 1.4 - _Git & GitHub - Entendendo os comandos_
+<br>✅ 1.1 - _Unix & Shell_
+<br>✅ 1.2 - _Git - O que é e para que serve_
+<br>✅ 1.3 - _Git & GitHub - Entendendo os comandos_
 
 🟦 <strong>Bloco 2: Introdução à HTML & CSS</strong>
 <br>✅ 2.1 - _HTML & CSS - Estruturas de página_
@@ -56,7 +55,7 @@
 🟦 <strong>Bloco 6: JavaScript ES6 & Testes Unitários</strong>
 <br>✅ 6.1 - _Fluxo de exceções e manipulação de objetos_
 <br>✅ 6.2 - _Primeiros passos em Jest_
-<br>⬜ 6.3 - Matchers e cobertura de código
+<br>✅ 6.3 - _Matchers e cobertura de código_
 <br>⬜ 6.4 - Projeto - JavaScript Testes Unitários
 
 🟦 <strong>Bloco 7: Higher Order Functions em JavaScript ES6</strong>
