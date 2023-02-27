@@ -12,6 +12,33 @@ let conta = {
 };
 console.log(conta.banco.nome);
 
+// ============ More examples =============================================
+
+let coolestTvShow = {
+  name: 'Friends',
+  genre: 'adult comedy',
+  author: 'David Crane and Marta Kauffman',
+  favoriteCharacter: 'Joey',
+  quote: 'I will be there for you!',
+  seasons: 10,
+};
+
+for (let key in coolestTvShow) {
+console.log(key); // only key
+}
+
+console.log('');
+
+for (let key in coolestTvShow) {
+  console.log(coolestTvShow[key]); // only value
+}
+
+console.log('');
+
+for (let key in coolestTvShow) {
+  console.log(`${key}: ${coolestTvShow[key]}`); // key and value
+}
+
 // =================================================================================
 
 /* 🍫 1. Crie uma variável player e atribua a ela um objeto que contenha as variáveis listadas na sequência.
@@ -105,5 +132,6 @@ let car = {
 
 for (let key in car) {
   console.log(`${key}: ${car[key]}`); 
-  
 }
+
+
