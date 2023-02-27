@@ -36,7 +36,8 @@ for (let key in coolestTvShow) {
 console.log('');
 
 for (let key in coolestTvShow) {
-  console.log(`${key}: ${coolestTvShow[key]}`); // key and value
+  console.log(`${key}: ${coolestTvShow[key]}`); // key and value 
+  // OR console.log(key, coolestTvShow[key]);
 }
 
 // =================================================================================
@@ -134,4 +135,19 @@ for (let key in car) {
   console.log(`${key}: ${car[key]}`); 
 }
 
+// ============================== Exercises - Object.keys / Object.values / Object.entries (Section 3.4) =========================
 
+// ========== Example - Objects =================
+
+let mostRomanticFilm = {
+  name: 'Elizabeth Town',
+  genre: 'romantic drama',
+  director: 'Cameron Crowe',
+  favoriteCharacter: 'Claire',
+  favoriteScene: 'the couple talking on the phone all through the night',
+  quote: 'So you failed',
+}
+
+console.log(Object.keys(mostRomanticFilm));  // only key
+console.log(Object.values(mostRomanticFilm));  // only values
+console.log(Object.entries(mostRomanticFilm));  // key and values
