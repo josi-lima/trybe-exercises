@@ -151,3 +151,39 @@ let mostRomanticFilm = {
 console.log(Object.keys(mostRomanticFilm));  // only key
 console.log(Object.values(mostRomanticFilm));  // only values
 console.log(Object.entries(mostRomanticFilm));  // key and values
+
+// -----------------------------------------------------
+
+/* 🍩 4. Crie uma função que exiba as habilidades do objeto student. Nesse caso, cada habilidade deve ser exibida no formato “Nome da habilidade, Nível: valor da chave referente à habilidade”. Após desenvolver a função, observe a sugestão de resposta a seguir e compare-a com sua solução. */
+
+let student1 = {
+  html: 'Very good',
+  css: 'Good',
+  javascript: 'Great',
+  softskills: 'Great',
+};
+
+let student2 = {
+  html: 'Good',
+  css: 'Great',
+  javascript: 'Unsatisfactory',
+  softskills: 'Great',
+  git: 'Good', // added key
+};
+
+function listSkills(student) {
+  const arrayOfSkills = Object.keys(student);
+  for (let index in arrayOfSkills) {
+    console.log(`${arrayOfSkills[index].toUpperCase()} - Level: ${student[arrayOfSkills[index]]}`);
+  }
+};
+
+console.log('Student 1');
+listSkills(student1);
+
+console.log('');
+
+console.log('Student 2');
+listSkills(student2);
+
+// =================================================================================================
