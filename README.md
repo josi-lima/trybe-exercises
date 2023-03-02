@@ -56,7 +56,7 @@
 <br>✅ 6.1 - _Fluxo de exceções e manipulação de objetos_
 <br>✅ 6.2 - _Primeiros passos em Jest_
 <br>✅ 6.3 - _Matchers e cobertura de código_
-<br>✅ 6.4 - _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-030-a-project-js-unit-tests/tree/josiane-de-lima-js-unit-tests)_
+<br>✅ 6.4 - _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-030-a-project-js-unit-tests/tree/josiane-de-lima-js-unit-tests)_ 🧪
 
 🟦 <strong>Bloco 7: Higher Order Functions em JavaScript ES6</strong>
 <br>✅ 7.1 - Introdução a Higher Order Functions
