@@ -38,7 +38,7 @@
 <br>✅ 4.3 - _JavaScript - Eventos_
 <br>✅ 4.4 - _JavaScript - Web Storage_
 <br>✅ 4.5 - _JavaScript Projects_
-<br>✅ 4.5 - Projeto - Arte com Pixels
+<br>✅ 4.5 - _Projeto - Arte com Pixels_
 <br>⬜ 4.6 - (Bônus) Projeto - Lista de tarefas
 <br>⬜ 4.6 - (Bônus) Projeto - Meme Generator
 <br>⬜ 4.6 - (Bônus) Projeto - Adivinhe a Cor
@@ -56,10 +56,10 @@
 <br>✅ 6.1 - _Fluxo de exceções e manipulação de objetos_
 <br>✅ 6.2 - _Primeiros passos em Jest_
 <br>✅ 6.3 - _Matchers e cobertura de código_
-<br>⬜ 6.4 - Projeto - JavaScript Testes Unitários
+<br>✅ 6.4 - _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-030-a-project-js-unit-tests/tree/josiane-de-lima-js-unit-tests)_
 
 🟦 <strong>Bloco 7: Higher Order Functions em JavaScript ES6</strong>
-<br>⬜ 7.1 - Introdução a Higher Order Functions
+<br>✅ 7.1 - Introdução a Higher Order Functions
 <br>⬜ 7.2 - Higher Order Functions - sort e map
 <br>⬜ 7.3 - Higher Order Functions - filter e reduce
 <br>⬜ 7.4 - JavaScript ES6 - spread operator, rest parameter e object destructuring
