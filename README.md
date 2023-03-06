@@ -60,8 +60,8 @@
 
 🟦 <strong>Bloco 7: Higher Order Functions em JavaScript ES6</strong>
 <br>✅ 7.1 - Introdução a Higher Order Functions
-<br>⬜ 7.2 - Higher Order Functions - sort e map
-<br>⬜ 7.3 - Higher Order Functions - filter e reduce
+<br>✅ 7.2 - Higher Order Functions - sort e map
+<br>✅ 7.3 - Higher Order Functions - filter e reduce
 <br>⬜ 7.4 - JavaScript ES6 - spread operator, rest parameter e object destructuring
 <br>⬜ 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 <br>⬜ 7.6 - Projeto - Zoo functions
