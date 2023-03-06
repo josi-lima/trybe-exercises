@@ -17,15 +17,12 @@ const employees = [
 const sortAgesPlus = (arr) => {
   return arr.sort((personA, personB) => personA.age - personB.age);
 }
-
 console.log(sortAges(employees));
 
 // b) Modifique o sort do exercício anterior para que ordene o array pela idade das pessoas em ordem decrescente.
 
 const sortAgesLess = (arr) => arr.sort((personA, personB) => personB.age - personA.age);
-
 console.log(sortAges(employees));
-
 
 // ===================================================
 
