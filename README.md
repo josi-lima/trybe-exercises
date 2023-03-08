@@ -59,11 +59,11 @@
 <br>✅ 6.4 - _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-030-a-project-js-unit-tests/tree/josiane-de-lima-js-unit-tests)_ 🧪
 
 🟦 <strong>Bloco 7: Higher Order Functions em JavaScript ES6</strong>
-<br>✅ 7.1 - Introdução a Higher Order Functions
-<br>✅ 7.2 - Higher Order Functions - sort e map
-<br>✅ 7.3 - Higher Order Functions - filter e reduce
-<br>⬜ 7.4 - JavaScript ES6 - spread operator, rest parameter e object destructuring
-<br>⬜ 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
+<br>✅ 7.1 - _Introdução a Higher Order Functions_
+<br>✅ 7.2 - _Higher Order Functions - sort e map_
+<br>✅ 7.3 - _Higher Order Functions - filter e reduce_
+<br>✅ 7.4 - _JavaScript ES6 - spread operator, rest parameter e object destructuring_
+<br>✅ 7.5 - _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
 <br>⬜ 7.6 - Projeto - Zoo functions
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
