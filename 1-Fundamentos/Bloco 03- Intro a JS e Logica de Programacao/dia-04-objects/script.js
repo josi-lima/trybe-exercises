@@ -35,8 +35,8 @@ for (let value in coolestTvShow) {
 
 console.log('');
 
-for (let value in coolestTvShow) {
-  console.log(`${key}: ${coolestTvShow[value]}`); // key and value 
+for (let key in coolestTvShow) {
+  console.log(`${key}: ${coolestTvShow[key]}`); // key and value 
   // OR console.log(key, coolestTvShow[key]);
 }
 
@@ -50,7 +50,7 @@ let age = 34;
 let medals = { golden: 2, silver: 3 }; */
 
 const player = {
-  name: 'Marta',
+  firstName: 'Marta',
   lastName: 'Silva',
   age: 34,
   medals: {
@@ -69,7 +69,13 @@ player.bestInTheWorld = [2006, 2007, 2008, 2009, 2010, 2018];
 
 // Acesse as chaves name, lastName e age por meio da sintaxe meuObjeto.chave e interpole as informações para imprimir no console uma mensagem no seguinte formato: “A jogadora Marta Silva tem 34 anos de idade”.
 
-console.log(`A jogadora ${player.name} ${player.lastName} tem ${player.age} anos de idade.`);
+console.log(`A jogadora ${player.firstName} ${player.lastName} tem ${player.age} anos de idade.`);
+
+// OR --- Object destructuring ---
+
+const { firstName, lastName, age } = player;
+console.log(`A jogadora ${firstName} ${lastName} tem ${age} anos de idade.`);
+
 
 // -----------------------------------------------------
 
@@ -77,8 +83,8 @@ console.log(`A jogadora ${player.name} ${player.lastName} tem ${player.age} anos
 
 // player['bestInTheWorld'].length; 
 
-let numberOfWins = player.bestInTheWorld;  
-console.log(`A jogadora ${player.name} ${player.lastName} foi eleita a melhor do mundo por ${numberOfWins.length} vezes.`);
+let numberOfWins = player['bestInTheWorld'];  
+console.log(`A jogadora ${player.firstName} ${player.lastName} foi eleita a melhor do mundo por ${numberOfWins.length} vezes.`);
 
 // -----------------------------------------------------
 
@@ -89,7 +95,7 @@ let silverMedals = player.medals.silver;
 
 console.log(`A jogadora possui ${goldenMedals} medalhas de ouro e ${silverMedals} medalhas de prata.`);
 
-// =====================================================================================================
+// ==============================================================================================
 
 // 🍩 2. Após ter estudado diferentes maneiras de associar chaves e valores a um objeto, que tal praticar? Adicione suas informações ao objeto student = {}, como nome, e-mail, telefone, GitHub e LinkedIn, usando os métodos abordados no conteúdo.
 
@@ -107,7 +113,7 @@ addProperty(student, 'linkedIn', 'linkedin.com/josiane-lima-coding');
 
 console.log(student);
 
-// ============================== Exercises - FOR IN  vs. FOR OF (Section 3.4) =========================
+// ========================= Exercises - FOR IN  vs. FOR OF (Section 3.4) =========================
 
 /* 🍫 3. Com base no objeto a seguir, utilize for/in e imprima no console a mensagem 'Olá, xxxxx!' para cada nome, substituindo o xxxxx pelo nome em questão. */
 
@@ -135,7 +141,7 @@ for (let key in car) {
   console.log(`${key}: ${car[key]}`); 
 }
 
-// ============================== Exercises - Object.keys / Object.values / Object.entries (Section 3.4) =========================
+// =========== Exercises - Object.keys / Object.values / Object.entries (Section 3.4) ==================
 
 // ========== Example - Objects =================
 
