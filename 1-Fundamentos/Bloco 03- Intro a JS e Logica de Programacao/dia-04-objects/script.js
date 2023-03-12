@@ -29,14 +29,14 @@ console.log(key); // only key
 
 console.log('');
 
-for (let key in coolestTvShow) {
-  console.log(coolestTvShow[key]); // only value
+for (let value in coolestTvShow) {
+  console.log(coolestTvShow[value]); // only value
 }
 
 console.log('');
 
-for (let key in coolestTvShow) {
-  console.log(`${key}: ${coolestTvShow[key]}`); // key and value 
+for (let value in coolestTvShow) {
+  console.log(`${key}: ${coolestTvShow[value]}`); // key and value 
   // OR console.log(key, coolestTvShow[key]);
 }
 
