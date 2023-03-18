@@ -71,9 +71,9 @@
 ## _[Desenvolvimento Front-end](https://github.com/josi-lima/trybe-exercises/tree/main/2-Front-End)_ ⏳
 
 🟧 <strong>Bloco 8: Introdução ao Frontend e JavaScript Assíncrono</strong>
-<br>✅ 8.1 - Ambiente de desenvolvimento
-<br>✅ 8.2 - JavaScript Assíncrono - Promises e Fetch
-<br>✅ 8.3 - Prática - Casa de Câmbio
+<br>✅ 8.1 - _Ambiente de desenvolvimento_
+<br>✅ 8.2 - _JavaScript Assíncrono - Promises e Fetch_
+<br>✅ 8.3 - _Prática - Casa de Câmbio_
 <br>⬜ 8.4 - Async / await e Testes Assíncronos
 <br>⬜ 8.5 - Projeto - Carrinho de Compras
 
