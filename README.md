@@ -64,16 +64,16 @@
 <br>✅ 7.3 - _Higher Order Functions - filter e reduce_
 <br>✅ 7.4 - _JavaScript ES6 - spread operator, rest parameter e object destructuring_
 <br>✅ 7.5 - _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
-<br>⬜ 7.6 - Projeto - Zoo functions
+<br>✅ 7.6 - Projeto - Zoo functions
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
 ## _[Desenvolvimento Front-end](https://github.com/josi-lima/trybe-exercises/tree/main/2-Front-End)_ ⏳
 
 🟧 <strong>Bloco 8: Introdução ao Frontend e JavaScript Assíncrono</strong>
-<br>⬜ 8.1 - Ambiente de desenvolvimento
-<br>⬜ 8.2 - JavaScript Assíncrono - Promises e Fetch
-<br>⬜ 8.3 - Prática - Casa de Câmbio
+<br>✅ 8.1 - Ambiente de desenvolvimento
+<br>✅ 8.2 - JavaScript Assíncrono - Promises e Fetch
+<br>✅ 8.3 - Prática - Casa de Câmbio
 <br>⬜ 8.4 - Async / await e Testes Assíncronos
 <br>⬜ 8.5 - Projeto - Carrinho de Compras
 
