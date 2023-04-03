@@ -64,7 +64,7 @@
 <br>✅ 7.3 - _Higher Order Functions - filter e reduce_
 <br>✅ 7.4 - _JavaScript ES6 - spread operator, rest parameter e object destructuring_
 <br>✅ 7.5 - _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
-<br>✅ 7.6 - Projeto - Zoo functions
+<br>✅ 7.6 - _Projeto - Zoo functions_
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
@@ -74,16 +74,16 @@
 <br>✅ 8.1 - _Ambiente de desenvolvimento_
 <br>✅ 8.2 - _JavaScript Assíncrono - Promises e Fetch_
 <br>✅ 8.3 - _Prática - Casa de Câmbio_
-<br>⬜ 8.4 - Async / await e Testes Assíncronos
-<br>⬜ 8.5 - Projeto - Carrinho de Compras
+<br>✅ 8.4 - _Async / await e Testes Assíncronos_
+<br>✅ 8.5 - _Projeto - Carrinho de Compras_
 
 🟧 <strong>Bloco 9: Introdução à React</strong>
-<br>⬜ 9.1 - 'Hello, world!' no React!
-<br>⬜ 9.2 - Componentes React
-<br>⬜ 9.3 - Projeto - Sistema Solar
+<br>✅ 9.1 - _'Hello, world!' no React!_
+<br>✅ 9.2 - _Componentes React_
+<br>✅ 9.3 - _Projeto - Sistema Solar_
  
 🟧 <strong>Bloco 10: Componentes com Estado, Eventos e Formulários com React</strong>
-<br>⬜ 10.1 - Components com estado e eventos
+<br>✅ 10.1 - _Components com estado e eventos_
 <br>⬜ 10.2 - Formulários no React
 <br>⬜ 10.3 - Projeto - Tryunfo
  
