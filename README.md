@@ -84,28 +84,28 @@
  
 🟧 <strong>Bloco 10: Componentes com Estado, Eventos e Formulários com React</strong>
 <br>✅ 10.1 - _Components com estado e eventos_
-<br>⬜ 10.2 - Formulários no React
-<br>⬜ 10.3 - Projeto - Tryunfo
+<br>✅ 10.2 - _Formulários no React_
+<br>✅ 10.3 -  _[Projeto - Tryunfo](https://josi-lima.github.io/friends-cards/)_ 🛋️
  
 🟧 <strong>Bloco 11: Ciclo de vida de Componentes e React Router</strong>
-<br>⬜ 11.1 - Ciclo de vida de componentes em React
-<br>⬜ 11.2 - React Router
-<br>⬜ 11.3 - Projeto - TrybeTunes
+<br>✅ 11.1 - _Ciclo de vida de componentes em React_
+<br>✅ 11.2 - React Router_
+<br>✅ 11.3 - _Projeto - TrybeTunes_
  
 🟧 <strong>Bloco 12: Metodologias Ágeis</strong>
-<br>⬜ 12.1 - Metodologias Ágeis
-<br>⬜ 12.2 - Projeto - Frontend Online Store
+<br>✅ 12.1 - _Metodologias Ágeis_
+<br>✅ 12.2 - _Projeto - Frontend Online Store_
  
 🟧 <strong>Bloco 13: Testes automatizados com React Testing Library</strong>
-<br>⬜ 14-1: RTL - Primeiros Passos 
-<br>⬜ 14-2: RTL - Mocks e Inputs
-<br>⬜ 14-3: RTL - Testando React Router
-<br>⬜ 14-4: Projeto - Testes em React
+<br>✅ 14-1: _RTL - Primeiros Passos_ 
+<br>✅ 14-2: _RTL - Mocks e Inputs_
+<br>✅ 14-3: _RTL - Testando React Router_
+<br>✅ 14-4: _Projeto - Testes em React_
  
 🟧 <strong>Bloco 14: Gerenciamento de estado com Redux</strong>
-<br>⬜ 14.1 - Introdução ao Redux - O estado global da aplicação
-<br>⬜ 14.2 - Usando o Redux no React
-<br>⬜ 14.3 - Usando o Redux no React - Prática
+<br>✅ 14.1 - _Introdução ao Redux - O estado global da aplicação_
+<br>✅ 14.2 - _Usando o Redux no React_
+<br>✅ 14.3 - _Usando o Redux no React - Prática_
 <br>⬜ 14.4 - Usando o Redux no React - Actions assíncronas
 <br>⬜ 14.5 - Testes em React-Redux
 <br>⬜ 14.6 - Projeto - Trybe Wallet
