@@ -64,7 +64,7 @@
 <br>✅ 7.3 - _Higher Order Functions - filter e reduce_
 <br>✅ 7.4 - _JavaScript ES6 - spread operator, rest parameter e object destructuring_
 <br>✅ 7.5 - _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
-<br>✅ 7.6 - _Projeto - Zoo functions_
+<br>✅ 7.6 - _[Projeto - Zoo Functions](https://github.com/tryber/sd-030-a-project-zoo-functions/tree/josiane-de-lima-zoo-functions-project)_ 🦄🐷🐔
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
 
